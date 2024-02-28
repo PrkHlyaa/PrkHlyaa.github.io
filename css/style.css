@@ -1,182 +1,197 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-body {
-  font-family: "Roboto", sans-serif;
-  overflow-x: hidden;
-}
-/*navbar*/
-nav {
-  display: flex;
-  background-color: coral;
-  justify-content: space-around;
-  /* padding: 20px 0; atas bawah 20  kiri kanan 0 */
-  /* atur padding dengan flex */
-  height: 45px;
-  align-items: center;
-  color: whitesmoke;
-}
-nav ul {
-  display: flex;
-  list-style: none;
-  width: 40%;
-  justify-content: space-between;
-  transition: all 0.4s;
-}
-nav .logo {
-  font-family: "Srisakdi", cursive;
-  letter-spacing: 3px; /*space antar char*/
+*{
+    margin: 0;
+    padding: 0;
 }
 
-nav ul li a {
-  text-decoration: none;
-  color: white;
-  font-size: 0.9rem;
+body{
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color: lightgoldenrodyellow;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-nav ul li a:hover {
-  color: teal;
+video {
+    max-width: 70%;
 }
-  /* hamburger menu */
-  .menu-toggle{
-    display: none; 
-    flex-direction: column;
-    height: 17px;
-    justify-content: space-between;
-    position: relative;
- }
- .menu-toggle input{
-     position: absolute;
-     top:-5px;
-     left:-3px;
-     width:21px;
-     height: 21px;
-     opacity: 0;
-     cursor: pointer;
-     z-index: 2;
- }
- .menu-toggle span{
-     display: block;
-     width: 21px;
-     height: 2px;
-     background-color: whitesmoke;
-     border-radius: 3px;
-     transition: all 0.7s;
- }
 
-   /*x on hamburger menu*/
-   .menu-toggle span:nth-child(2){
-    transform-origin: left center;
-  }
-  
-  .menu-toggle span:nth-child(4){
-    transform-origin: left center;
-  }
-  
-  .menu-toggle input:checked ~ span:nth-child(2){
-    transform: rotate(45deg) ;
-  }
-  
-  .menu-toggle input:checked ~ span:nth-child(4){
-    transform: rotate(-45deg) ;
-  }
-  /* invis span ke 2 / child ke 3 */
-  .menu-toggle input:checked ~ span:nth-child(3){
-    width: 0%;
-    opacity: 0;
-    transition: .1s
-  }
-
-  .image {
-   
+.nav{
+    position: fixed;
+    top: 0;
     width: 100%;
-    height: auto;  
-    max-width: 140px;
+    height: 50px;
+    background-color: darkgrey;
+}
+
+.nav ul li{
+    display: inline-block;
+    line-height: 45px;
+}
+
+.nav ul li a{
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.nav ul li a:hover{
+    color: black;
+}
+
+.container{
+    width: 1200px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 50px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.header{
+    padding: 50px;
+}
+
+h1{
+    color: #333;
+    font-size: 45px;
+}
+
+.header p{
+    margin-top: 10px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-
-    border: 2px solid blue;
-    padding: 8px;
-    border-radius: 5px;
-    margin: 0 auto;
-
-}
-main {
-    display: flex;
-    flex-direction: row;
+strong{
+    font-weight: bold;
 }
 
-.box {
-    margin: 5px;
+em{
+    font-style: italic;
+    color: aquamarine;
+}
+
+ul{
+    list-style-type: decimal;
+}
+
+li{
+    color: #555;
+}
+
+.animated{
+    animation: fadeIn 5s ease-in-out;
+    animation: fadeIn 5s ;
+}
+
+@keyframes fadeIn{
+    0%{ opacity: 0;}
+    100% { opacity: 1;}
+}
+
+.hero{
+    margin-top: 50px;
+    border-radius: 50px;
+    height: 800px;
+    background-size: cover; 
+}
+
+h2{
     padding: 10px;
-    border-radius: 5px;
-}
-/* supaya ada jarak antar box  */
-.flexone{
-flex-grow: 1;
-}
-.flextwo{
-    flex-grow: 2;
-    }
-footer {
     text-align: center;
 }
-h2 {
-  
+
+hr{
+    width: 300px;
+    border-top: 3px solid lightblue;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.paragraf{
     text-align: center;
-    color: brown;
-    text-justify: inter-word;
-    word-wrap: break-word;
+    padding: 30px;
+}
+
+.paragraf p{
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 18;
+}
+
+.content{
+    padding: 50 px;
+    margin-top: -20;
+}
+
+.kiri{
+    padding: 30px;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 500px;
+    float: left;
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.kanan{
+    padding: 30px;
+    border-radius: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 500px;
+    float: left;
+    background-color: lightcyan;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+image{
+    padding: 10px;
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+}
+
+img{
+    padding: 10px;
+    border-radius: 30px;
+    margin: auto;
+    width: auto;
+    height: 300px;
+    margin-left: 25px;
 
 }
-h5 {
-  text-align: center;
-  color: red;
-  word-wrap: break-word;
- 
-}
-p {
-    text-align: justify;
-    text-justify: inter-word;
-}
-@media screen and (max-width: 768px) {
-    nav ul{
-      width: 50%;
-    }
-  }
 
-  @media screen and (max-width: 576px) {
-   .menu-toggle{
-       display: flex;
-   }
-   main{
-       flex-direction: column-reverse;
-   }
-    nav ul{
-      position: absolute;
-      right:0;
-      top: 0;
-      width: 50%;
-      flex-direction: column;
-      height: 100vh;
-      justify-content:space-evenly;
-      align-items: center;
-      background-color: coral;
-      /* transform: translateX(100%);  */
-      transition: all 0.72s;
-      opacity: 0;
-      z-index: 2;
-    }
-    nav ul.menushow{
-        opacity: 0.5;
-        /* transform: translateX(0); */
-    }
-  }
+h3{
+    text-align: center;
+    padding: 10px;
+}
 
+
+.footer{
+    background-color: black;
+    padding: 10px;
+}
+
+.copy{
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+}
+
+.footer a{
+    color: lightblue;
+    text-decoration: none;
+}
