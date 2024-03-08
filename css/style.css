@@ -4,13 +4,7 @@
 }
 
 body{
-    display: flex;
-    font-family: Arial, sans-serif;
-    background-color: lightgoldenrodyellow;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
+    flex-direction: column; 
     align-items: center;
 }
 
@@ -20,20 +14,30 @@ video {
 
 .nav{
     position: fixed;
+    justify-content: center;
+    align-items: center;
     top: 0;
     width: 100%;
-    height: 50px;
-    background-color: darkgrey;
+    height: 60px;
+    background-color: #FC819E;
+}
+
+.nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
 }
 
 .nav ul li{
     display: inline-block;
     line-height: 45px;
+    margin-left: 20px;
+    margin-bottom: 10px;
 }
 
 .nav ul li a{
-    color: #fff;
-    padding: 10px;
+    color: #FFF3C7;
+    padding: 10px 0;
     text-decoration: none;
 }
 
@@ -41,22 +45,21 @@ video {
     color: black;
 }
 
+.logo {
+    margin-right: 20px; /* Jarak antara logo dan teks */
+}
+
 .container{
-    width: 1200px;
+    width: 80%;
     margin: 100px auto;
     padding: 20px;
-    background-color: #fff;
+    background-color: #FFF3C7;
     border-radius: 50px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .header{
-    padding: 50px;
-}
-
-h1{
-    color: #333;
-    font-size: 45px;
+    padding: 20px;
 }
 
 .header p{
@@ -77,7 +80,7 @@ strong{
 
 em{
     font-style: italic;
-    color: aquamarine;
+    color: #F7418F;
 }
 
 ul{
@@ -85,7 +88,7 @@ ul{
 }
 
 li{
-    color: #555;
+    color: #F7418F;
 }
 
 .animated{
@@ -101,8 +104,13 @@ li{
 .hero{
     margin-top: 50px;
     border-radius: 50px;
-    height: 800px;
+    height: 400px;
     background-size: cover; 
+}
+
+h1{
+    color: #333;
+    font-size: 45px;
 }
 
 h2{
@@ -110,9 +118,14 @@ h2{
     text-align: center;
 }
 
+h3{
+    text-align: center;
+    padding: 10px;
+}
+
 hr{
     width: 300px;
-    border-top: 3px solid lightblue;
+    border-top: 3px solid #F7418F;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 20px;
@@ -120,7 +133,7 @@ hr{
 
 .paragraf{
     text-align: center;
-    padding: 30px;
+    padding: 20px;
 }
 
 .paragraf p{
@@ -130,59 +143,57 @@ hr{
 }
 
 .content{
-    padding: 50 px;
+    padding: 20 px;
     margin-top: -20;
 }
 
 .kiri{
     padding: 30px;
     border-radius: 50px;
-    margin-left: 50px;
-    margin-top: 50px;
-    width: 500px;
+    margin: 20px 0;
+    width: 100%;
     float: left;
-    background-color: lightcyan;
-    text-align: center;
-}
-
-.kanan{
-    padding: 30px;
-    border-radius: 50px;
-    margin-left: 50px;
-    margin-top: 50px;
-    width: 500px;
-    float: left;
-    background-color: lightcyan;
+    background-color: #FEC7B4;
     text-align: center;
     box-sizing: border-box;
 }
 
-image{
+cover{
     padding: 10px;
     border-radius: 30px;
-    width: 300px;
-    height: 300px;
+    width: 90%;
+    height: auto;
 }
 
 img{
     padding: 10px;
     border-radius: 30px;
+    display: block;
+    max-width: 50%;
+    height: auto;
     margin: auto;
-    width: auto;
-    height: 300px;
-    margin-left: 25px;
-
 }
 
-h3{
-    text-align: center;
-    padding: 10px;
+.video-container {
+    position: relative;
+    width: 80%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
+    height: 0;
+    overflow: hidden;
 }
 
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 .footer{
     background-color: black;
     padding: 10px;
+    text-align: center;
 }
 
 .copy{
