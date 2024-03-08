@@ -14,7 +14,7 @@ video {
 
 .nav{
     position: fixed;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     top: 0;
     width: 100%;
@@ -25,28 +25,36 @@ video {
 .nav ul {
     margin: 0;
     padding: 0;
+    display: flex;
     list-style-type: none;
+    align-items: center;
+    justify-content: center;
 }
 
 .nav ul li{
     display: inline-block;
-    line-height: 45px;
-    margin-left: 20px;
-    margin-bottom: 10px;
+    margin-right: 20px;
+    line-height: 60px;
 }
 
 .nav ul li a{
     color: #FFF3C7;
-    padding: 10px 0;
     text-decoration: none;
+    padding: 10px 0;
 }
 
 .nav ul li a:hover{
     color: black;
 }
 
-.logo {
-    margin-right: 20px; /* Jarak antara logo dan teks */
+.nav ul li.logo {
+    margin-right: auto; 
+}
+
+.nav ul li.logo img {
+    height: auto;
+    width: 80px;
+    vertical-align: middle; 
 }
 
 .container{
