@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Berita Terkini</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <div class="logo">Zahra Hilyah</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="index.html">About</a></li>
+                <li><a href="index.html">Galery</a></li>
+                <li><a href="berita.html">Berita</a></li>
+            </ul>
+            <div class="menu-toggle">
+                <input type="checkbox">
+                <span></span>
+                <span></span>
+                <span></span>   
+            </div>
+        </nav>
+    </header>
+
+    <h1>DATA SCRAPING I</h1>
+    <div class="container">
+
+    <table id="jsonTable" border="1">
+        <thead>
+            <tr>
+                <th>Judul</th>
+                <th>Kategori</th>
+                <th>Waktu Publish</th>
+                <th>Waktu Scraping</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+</div>
+
+<div class="footer">
+    <p class="copy">
+        &copy Copyright 2024 by  <a href="#">PrkHlyaa</a>
+    </p>
+</div>
+
+    <script>
+        $(document).ready(function(){
+            $.getJSON("data.json", function(data){
+                $.each(data, function(index, item){
+                    var row = "<tr>";
+                    row += "<td>" + item.judul + "</td>";
+                    row += "<td>" + item.kategori + "</td>";
+                    row += "<td>" + item.waktu_publish + "</td>";
+                    row += "<td>" + item.waktu_scraping + "</td>";
+                    row += "</tr>";
+                    $("#jsonTable tbody").append(row);
+                });
+            });
+        });
+    </script>
+    <script src="js/main.js"></script>
+</body>
+</html>
