@@ -256,10 +256,9 @@ hr{
 }
 
 .kiri{
-    padding: 20px;
-    border-radius: 50px;
-    margin: 20px 0;
-    width: 45%;
+    border-radius: 10px;
+    margin: 10px 0;
+    width: 48%;
     float: left;
     background-color: #FEC7B4;
     text-align: center;
@@ -267,10 +266,9 @@ hr{
 }
 
 .kanan{
-    padding: 20px;
-    border-radius: 50px;
-    margin: 20px 0;
-    width: 45%;
+    border-radius: 10px;
+    margin: 10px 0;
+    width: 48%;
     float: right;
     background-color: #FEC7B4;
     text-align: center;
@@ -335,4 +333,14 @@ img{
 .footer a{
     color: lightblue;
     text-decoration: none;
+}
+
+#jsonTable {
+    font-family: Arial, sans-serif;
+}
+
+#jsonTable th,
+#jsonTable td {
+    padding: 10px;
+    text-align: center; /* Mengatur alignment teks ke tengah */
 }

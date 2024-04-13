@@ -34,7 +34,7 @@
             <thead>
                 <tr>
                     <th>Judul</th>
-                    <th>Kategori</th>
+                    <th class="align-center">Kategori</th>
                     <th>Waktu Publish</th>
                     <th>Waktu Scraping</th>
                 </tr>
@@ -43,13 +43,7 @@
             </tbody>
         </table>
     </div>
-
-    <div class="footer">
-        <p class="copy">
-            &copy Copyright 2024 by  <a href="#">PrkHlyaa</a>
-        </p>
-    </div>
-
+    
     <script>
         $(document).ready(function(){
             $.getJSON("data.json", function(data){
@@ -66,5 +60,11 @@
         });
     </script>
     <script src="js/main.js"></script>
+    
+    <div class="footer">
+        <p class="copy">
+        &copy Copyright 2024 by  <a href="#">PrkHlyaa</a>
+        </p>
+    </div>
 </body>
 </html>
