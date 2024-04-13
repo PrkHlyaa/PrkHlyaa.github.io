@@ -4,3 +4,4 @@ const nav = document.querySelector('nav ul');
 mntoggle.addEventListener('click',function(){
    nav.classList.toggle('menushow');
 })
+
