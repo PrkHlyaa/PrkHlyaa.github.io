@@ -166,6 +166,7 @@ nav ul li a:hover {
 }
 
 .container{
+    align-items: center;
     width: 80%;
     padding: 5%;
     margin: 5%;
@@ -342,5 +343,5 @@ img{
 #jsonTable th,
 #jsonTable td {
     padding: 10px;
-    text-align: center; /* Mengatur alignment teks ke tengah */
+    text-align: center; 
 }
