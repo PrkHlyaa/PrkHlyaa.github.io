@@ -15,10 +15,20 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x' 
+        python-version: '3.x' # Change to your Python version if needed
 
     - name: Install Dependencies
-      run: pip install -r requirements.txt # If you have any dependencies listed in a requirements.txt file
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
 
     - name: Run Web Scraping Script
-      run: python scrape.py # Replace with the name of your Python script
+      run: python scrape.py
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "PrkHlyaa"
+        git config --global user.email "zahra19hilyatul@gmail.com"
+        git add data.json
+        git commit -m "Update data.json"
+        git push
