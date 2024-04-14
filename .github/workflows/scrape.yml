@@ -1,0 +1,24 @@
+name: Web Scraping
+
+on:
+  schedule:
+    - cron: '*/2 * * * *' # Runs every 2 minutes
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' 
+
+    - name: Install Dependencies
+      run: pip install -r requirements.txt # If you have any dependencies listed in a requirements.txt file
+
+    - name: Run Web Scraping Script
+      run: python scrape.py # Replace with the name of your Python script
