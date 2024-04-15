@@ -25,7 +25,7 @@ jobs:
 
     - name: Update data.json
       run: |
-        cp new_data.json data.json
+        cp data.json data.json
         
     - name: Update berita.html
       run: |
