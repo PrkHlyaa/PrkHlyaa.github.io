@@ -33,6 +33,6 @@ jobs:
       run: |
         git config --global user.name "PrkHlyaa"
         git config --global user.email "zahra19hilyatul@gmail.com"
-        git add <path_to_data.json>
+        git add data.json
         git commit -m "Update data.json"
         git push
