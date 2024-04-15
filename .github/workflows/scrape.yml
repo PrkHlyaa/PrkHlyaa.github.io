@@ -3,10 +3,10 @@ name: Web Scraping
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/5 * * * *' 
+    - cron: '*/30 * * * *' 
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
