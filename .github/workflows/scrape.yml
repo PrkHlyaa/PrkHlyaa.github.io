@@ -3,13 +3,16 @@ name: Web Scraping
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/2 * * * *' 
+    - cron: '*/5 * * * *' 
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+    - name: set GMT+7
+      run: sudo timedatect1 set-timezone Asia/Jakarta
+    
     - name: Checkout Repository
       uses: actions/checkout@v2
 
@@ -25,9 +28,6 @@ jobs:
 
     - name: Run Web Scraping Script
       run: python scrape.py
-
-    - name: Check status of headline.json
-      run: git status
 
     - name: Commit and Push Changes
       run: |
