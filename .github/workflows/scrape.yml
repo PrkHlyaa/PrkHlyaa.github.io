@@ -30,7 +30,10 @@ jobs:
         python update_html.py
         
     - name: Add data.json to tracked files
-      run: git add data.json berita.html
+      run: git add data.json
+
+    - name: Add berita.html to tracked files
+      run: git add berita.html
         
     - name: Commit and push changes
       run: |
