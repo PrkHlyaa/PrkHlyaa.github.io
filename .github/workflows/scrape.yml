@@ -1,40 +1,38 @@
-name: Update Data and HTML
+name: Web Scraping
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: '*/2 * * * *' 
 
 jobs:
-  update:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
+    - name: Checkout Repository
       uses: actions/checkout@v2
-      
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
-    - name: Install dependencies
+    - name: Install Dependencies
       run: |
-        pip install -r requirements.txt
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
 
-    - name: Run scrape.py
+    - name: Run Web Scraping Script
       run: python scrape.py
-        
-    - name: Update berita.html
+
+    - name: Check status of headline.json
+      run: git status
+
+    - name: Commit and Push Changes
       run: |
-        python update_html.py
-        
-    - name: Add data.json to tracked files
-      run: git add berita.html
-        
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "zahra19hilyatul19@gmail.com"
-        git config --local user.name "PrkHilyaa"
-        git commit -m "Update data and HTML"
+        git config --global user.name "PrkHlyaa"
+        git config --global user.email "zahra19hilyatul@gmail.com"
+        git add "headline.json"
+        git commit -m "Update headline.json"
         git push
