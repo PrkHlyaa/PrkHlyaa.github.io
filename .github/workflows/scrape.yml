@@ -22,10 +22,6 @@ jobs:
 
     - name: Run scrape.py
       run: python scrape.py
-
-    - name: Update data.json
-      run: |
-        cp data.json data.json
         
     - name: Update berita.html
       run: |
