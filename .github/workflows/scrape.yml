@@ -26,13 +26,13 @@ jobs:
     - name: Run Web Scraping Script
       run: python scrape.py
 
-    - name: Check status of data.json
+    - name: Check status of headline.json
       run: git status
 
     - name: Commit and Push Changes
       run: |
         git config --global user.name "PrkHlyaa"
         git config --global user.email "zahra19hilyatul@gmail.com"
-        git add "E:\\Kuliah\\Proyek 1 Pengembangan Perangkat Lunak Dekstop\\PrkHlyaa.github.io\\data.json"
-        git commit -m "Update data.json"
+        git add "headline.json"
+        git commit -m "Update headline.json"
         git push
