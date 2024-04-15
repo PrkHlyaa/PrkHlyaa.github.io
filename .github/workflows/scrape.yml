@@ -26,6 +26,9 @@ jobs:
     - name: Run Web Scraping Script
       run: python scrape.py
 
+    - name: Check status of data.json
+      run: git status
+
     - name: Commit and Push Changes
       run: |
         git config --global user.name "PrkHlyaa"
