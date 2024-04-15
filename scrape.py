@@ -27,7 +27,7 @@ def scrape_website(url):
     return articles
 
 def save_to_json(data):
-   with open('E:\\Kuliah\\Proyek 1 Pengembangan Perangkat Lunak Dekstop\\PrkHlyaa.github.io\\data.json', 'w') as json_file:
+   with open('E:\\Kuliah\\Proyek 1 Pengembangan Perangkat Lunak Dekstop\\PrkHlyaa.github.io\\headline.json', 'w') as json_file:
         json.dump(data, json_file, indent=4)
 
 if __name__ == "__main__":
