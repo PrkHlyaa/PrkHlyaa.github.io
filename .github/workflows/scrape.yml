@@ -11,7 +11,7 @@ jobs:
 
     steps:
     - name: set GMT+7
-      run: sudo timedatect1 set-timezone Asia/Jakarta
+      run: sudo timedatectl set-timezone Asia/Jakarta
     
     - name: Checkout Repository
       uses: actions/checkout@v2
