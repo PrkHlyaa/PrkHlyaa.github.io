@@ -45,7 +45,7 @@
             $.getJSON("headline.json", function(data){
                 $.each(data, function(index, item){
                     var row = "<tr>";
-                    row += "<td>" + item.judul + "</td>";
+                    row += "<td>" + '<a href="' + item.url + '">' + item.judul + "</td>";
                     row += "<td>" + item.kategori + "</td>";
                     row += "<td>" + item.waktu_publish + "</td>";
                     row += "<td>" + item.waktu_scraping + "</td>";

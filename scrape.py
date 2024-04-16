@@ -13,15 +13,19 @@ def scrape_website(url):
         title_element = item.find('h3')
         date_element = item.find('div', class_='date')
 
+
         if category_element and title_element and date_element:
             category = category_element.text.strip()
             title = title_element.text.strip()
             publish_time = date_element.text.strip().split('-')[-1].strip()
+            
+            link = item.find('a')['href']
             articles.append({
                 'judul': title,
                 'kategori': category,
                 'waktu_publish': publish_time,
-                'waktu_scraping': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                'waktu_scraping': datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                'url' : link
             })
     
     return articles
