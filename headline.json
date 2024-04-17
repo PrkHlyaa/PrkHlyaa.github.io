@@ -1,352 +1,352 @@
 [
     {
+        "judul": "Lima Daerah jadi Penopang Kenaikan Trafik Telkomsel di Musim Mudik",
+        "kategori": "News",
+        "waktu_publish": "3 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://news.republika.co.id/berita/sc2icp488/lima-daerah-jadi-penopang-kenaikan-trafik-telkomsel-di-musim-mudik"
+    },
+    {
+        "judul": "Hotel Indonesia Group Catat Kenaikan Hunian 15 Persen saat Lebaran",
+        "kategori": "Ekonomi",
+        "waktu_publish": "3 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://ekonomi.republika.co.id/berita/sc2t4i502/hotel-indonesia-group-catat-kenaikan-hunian-15-persen-saat-lebaran"
+    },
+    {
+        "judul": "Mahasiswa Kedokteran Korsel Minta Pengadilan Hentikan Kenaikan Kuota",
+        "kategori": "Internasional",
+        "waktu_publish": "5 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://internasional.republika.co.id/berita/sc2t27370/mahasiswa-kedokteran-korsel-minta-pengadilan-hentikan-kenaikan-kuota"
+    },
+    {
+        "judul": "H+6 Lebaran, Pelabuhan Bakauheni Terus Dipadati Pemudik Motor",
+        "kategori": "Ramadhan",
+        "waktu_publish": "5 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://ramadhan.republika.co.id/berita/sc2t13366/h6-lebaran-pelabuhan-bakauheni-terus-dipadati-pemudik-motor"
+    },
+    {
+        "judul": "Polda Sumbar Imbau Sopir Bus yang Kabur Usai Kecelakaan Segera Menyerahkan Diri",
+        "kategori": "News",
+        "waktu_publish": "8 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://news.republika.co.id/berita/sc2svu370/polda-sumbar-imbau-sopir-bus-yang-kabur-usai-kecelakaan-segera-menyerahkan-diri"
+    },
+    {
+        "judul": "Jangan Ragu untuk Sedekah",
+        "kategori": "Ihram",
+        "waktu_publish": "10 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://ihram.republika.co.id/berita/sc2hu3430/jangan-ragu-untuk-sedekah"
+    },
+    {
+        "judul": "Jubir MK: Sengketa Pilpres 2024 Terbanyak Amicus Curiae",
+        "kategori": "News",
+        "waktu_publish": "10 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://news.republika.co.id/berita/sc2stf377/jubir-mk-sengketa-pilpres-2024-terbanyak-amicus-curiae"
+    },
+    {
+        "judul": "Kisah Abu Dzar Al Ghifari, Sahabat Nabi yang Sedekah dengan Sayur Sop",
+        "kategori": "Islam Digest",
+        "waktu_publish": "11 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://islamdigest.republika.co.id/berita/sc2sse366/kisah-abu-dzar-al-ghifari-sahabat-nabi-yang-sedekah-dengan-sayur-sop"
+    },
+    {
+        "judul": "Delapan Bocoran Baru iPhone SE 4, Seperti Apa Spesifikasinya?",
+        "kategori": "Tekno",
+        "waktu_publish": "13 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://tekno.republika.co.id/berita/sc2sp1370/delapan-bocoran-baru-iphone-se-4-seperti-apa-spesifikasinya"
+    },
+    {
+        "judul": "Tancap Gas Dalam Pengembangan Karyawan, BTN Tempati Posisi Top 3 untuk Pengembangan Karier",
+        "kategori": "Ekonomi",
+        "waktu_publish": "17 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://ekonomi.republika.co.id/berita/sc2sh7349/tancap-gas-dalam-pengembangan-karyawan-btn-tempati-posisi-top-3-untuk-pengembangan-karier"
+    },
+    {
+        "judul": "Lewat Telepon, Menlu China Bahas Situasi Timur Tengah",
+        "kategori": "Internasional",
+        "waktu_publish": "21 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://internasional.republika.co.id/berita/sc2eup488/lewat-telepon-menlu-china-bahas-situasi-timur-tengah"
+    },
+    {
+        "judul": "Dua Mineral Baru Ditemukan di Bulan, Seperti Apa?",
+        "kategori": "Tekno",
+        "waktu_publish": "21 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://tekno.republika.co.id/berita/sc2sbj370/dua-mineral-baru-ditemukan-di-bulan-seperti-apa"
+    },
+    {
         "judul": "Bertemu Presiden Jokowi, Tim Cook Bahas Investasi Apple di Indonesia",
         "kategori": "Visual",
-        "waktu_publish": "3 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "25 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://visual.republika.co.id/berita/sc2p9z375/bertemu-presiden-jokowi-tim-cook-bahas-investasi-apple-di-indonesia"
     },
     {
         "judul": "Dishub Surakarta Sebut Tol Kurangi Kepadatan Saat Lebaran 2024",
         "kategori": "Ramadhan",
-        "waktu_publish": "3 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "25 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ramadhan.republika.co.id/berita/sc2s4l366/dishub-surakarta-sebut-tol-kurangi-kepadatan-saat-lebaran-2024"
     },
     {
         "judul": "Semangat China Perluas Inisiatif 'Jalur Sutra Digital'",
         "kategori": "Internasional",
-        "waktu_publish": "5 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "27 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://internasional.republika.co.id/berita/sc2hlu488/semangat-china-perluas-inisiatif-jalur-sutra-digital"
     },
     {
         "judul": "KPK Bantah Politisasi Kasus Bupati Sidoarjo",
         "kategori": "News",
-        "waktu_publish": "6 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "27 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2s10377/kpk-bantah-politisasi-kasus-bupati-sidoarjo"
-    },
-    {
-        "judul": "Pemkab Sleman Buka 736 Formasi untuk CPNS-PPPK Tahun 2024",
-        "kategori": "News",
-        "waktu_publish": "8 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://news.republika.co.id/berita/sc2rha436/pemkab-sleman-buka-736-formasi-untuk-cpnspppk-tahun-2024"
     },
     {
         "judul": "Perekonomian China Tumbuh Lebih Cepat dari Prediksi",
         "kategori": "Ekonomi",
-        "waktu_publish": "8 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "30 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2q3p457/perekonomian-china-tumbuh-lebih-cepat-dari-prediksi"
+    },
+    {
+        "judul": "Pemkab Sleman Buka 736 Formasi untuk CPNS-PPPK Tahun 2024",
+        "kategori": "News",
+        "waktu_publish": "30 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
+        "url": "https://news.republika.co.id/berita/sc2rha436/pemkab-sleman-buka-736-formasi-untuk-cpnspppk-tahun-2024"
     },
     {
         "judul": "Pemerintah Segera Atur Masa Transisi Perubahan Permendag 36/2023",
         "kategori": "Ekonomi",
-        "waktu_publish": "10 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "32 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2rsz502/pemerintah-segera-atur-masa-transisi-perubahan-permendag-362023"
     },
     {
         "judul": "Mengungkap Ragam Tools Favorit Data Scientist dalam Pengolahan Data",
         "kategori": "News",
-        "waktu_publish": "12 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "33 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2rqz349/mengungkap-ragam-tools-favorit-data-scientist-dalam-pengolahan-data"
     },
     {
         "judul": "Ekonom: Pelemahan Cadangan Devisa Berpotensi Hingga Kuartal II 2024",
         "kategori": "Ekonomi",
-        "waktu_publish": "16 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "37 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2rjh502/ekonom-pelemahan-cadangan-devisa-berpotensi-hingga-kuartal-ii-2024"
     },
     {
         "judul": "Ini Jadwal dan Prediksi Susunan Pemain Utama FC Bayern vs Arsenal Nanti Malam",
         "kategori": "Sport",
-        "waktu_publish": "19 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "41 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://sport.republika.co.id/berita/sc2r4x456/ini-jadwal-dan-prediksi-susunan-pemain-utama-fc-bayern-vs-arsenal-nanti-malam"
     },
     {
         "judul": "Jatim Waspada Angin Kencang dan Hujan Lebat Sepekan ke Depan",
         "kategori": "News",
-        "waktu_publish": "20 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "42 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2rcg436/jatim-waspada-angin-kencang-dan-hujan-lebat-sepekan-ke-depan"
     },
     {
         "judul": "OPM Sebut Paniai Jadi Zona Perang, Ini Respons TNI",
         "kategori": "News",
-        "waktu_publish": "23 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "45 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2r73436/opm-sebut-paniai-jadi-zona-perang-ini-respons-tni"
     },
     {
         "judul": "Calon Dokter Alami Gejala Depresi, Pakar: Tangani Segera",
         "kategori": "News",
-        "waktu_publish": "24 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "46 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2r60349/calon-dokter-alami-gejala-depresi-pakar-tangani-segera"
     },
     {
         "judul": "Gerindra: Tak Ada Perselisihan Prabowo dan Megawati",
         "kategori": "News",
-        "waktu_publish": "27 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "48 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2r1s377/gerindra-tak-ada-perselisihan-prabowo-dan-megawati"
     },
     {
         "judul": "Budi Arie Akui Ada Pihak yang Hambat Pertemuan Jokowi dan Megawati",
         "kategori": "News",
-        "waktu_publish": "28 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "49 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2qzh436/budi-arie-akui-ada-pihak-yang-hambat-pertemuan-jokowi-dan-megawati"
     },
     {
         "judul": "OJK Resmi Akhiri Kebijakan Stimulus Covid-19, Industri Keuangan Disebut Sudah Siap",
         "kategori": "Ekonomi",
-        "waktu_publish": "28 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "50 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2qyz502/ojk-resmi-akhiri-kebijakan-stimulus-covid19-industri-keuangan-disebut-sudah-siap"
     },
     {
         "judul": "Pemerintah Pastikan Harga BBM tak Naik",
         "kategori": "Ekonomi",
-        "waktu_publish": "28 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "50 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://www.republika.id/posts/52046/pemerintah-pastikan-harga-bbm-tak-naik"
     },
     {
-        "judul": "PBB Akan Galang Donasi Global 2,8 Miliar Dolar AS untuk Gaza",
+        "judul": "PBB akan Galang Donasi Global 2,8 Miliar Dolar AS untuk Gaza",
         "kategori": "Internasional",
-        "waktu_publish": "29 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "51 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://internasional.republika.co.id/berita/sc2aih488/pbb-akan-galang-donasi-global-28-miliar-dolar-as-untuk-gaza"
     },
     {
         "judul": "Menghitung Dampak Ekonomi Ramadhan dan Lebaran 2024",
         "kategori": "Ekonomi",
-        "waktu_publish": "29 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "51 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://www.republika.id/posts/52043/menghitung-dampak-ekonomi-ramadhan-dan-lebaran-2024"
     },
     {
         "judul": "Bus Pahala Kencana Terbakar di Tol Jombang-Mojokerto, Ini Penjelasan Polisi",
         "kategori": "Rejogja",
-        "waktu_publish": "31 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "52 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://rejogja.republika.co.id/berita/sc2qul432/bus-pahala-kencana-terbakar-di-tol-jombangmojokerto-ini-penjelasan-polisi"
     },
     {
         "judul": "Ini Jadwal dan Prediksi Starting XI Man City Vs Madrid, Perempat Final Liga Champions",
         "kategori": "Sport",
-        "waktu_publish": "31 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "53 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://sport.republika.co.id/berita/sc2qu4456/ini-jadwal-dan-prediksi-starting-xi-man-city-vs-madrid-perempat-final-liga-champions"
     },
     {
         "judul": "Pendeta Gilbert Dilaporkan ke Polda Metro Jaya Terkait Dugaan Penistaan Agama",
         "kategori": "News",
-        "waktu_publish": "32 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "54 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2qse436/pendeta-gilbert-dilaporkan-ke-polda-metro-jaya-terkait-dugaan-penistaan-agama"
     },
     {
         "judul": "Bupati Sidoarjo Dipanggil KPK pada Jumat Pekan Ini",
         "kategori": "News",
-        "waktu_publish": "33 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "54 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2qr7377/bupati-sidoarjo-dipanggil-kpk-pada-jumat-pekan-ini"
     },
     {
         "judul": "Pemberian Vaksin Meningitis untuk Calon Jamaah Haji",
         "kategori": "Visual",
-        "waktu_publish": "33 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "55 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://visual.republika.co.id/berita/sc2ova375/pemberian-vaksin-meningitis-untuk-calon-jamaah-haji"
     },
     {
         "judul": "Pengendara Fortuner Berpelat Dinas TNI Palsu yang Viral Sudah Ditangkap, Kini Diperiksa",
         "kategori": "News",
-        "waktu_publish": "35 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "57 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2qn8436/pengendara-fortuner-berpelat-dinas-tni-palsu-yang-viral-sudah-ditangkap-kini-diperiksa"
     },
     {
         "judul": "Ekonom: Ada Lonjakan Investasi Manufaktur pada Satu Dekade Terakhir",
         "kategori": "Ekonomi",
-        "waktu_publish": "36 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "57 menit yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2qmf502/ekonom-ada-lonjakan-investasi-manufaktur-pada-satu-dekade-terakhir"
     },
     {
         "judul": "Soal Status Tersangka Gus Muhdlor, Cak Imin: Sudah Dipecat Waktu Itu",
         "kategori": "News",
-        "waktu_publish": "40 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2qfn436/soal-status-tersangka-gus-muhdlor-cak-imin-sudah-dipecat-waktu-itu"
     },
     {
         "judul": "Belum Kembali dari Mudik? Diskon Tarif Tol Berlaku Hari Ini Hingga Jumat",
         "kategori": "Ekonomi",
-        "waktu_publish": "41 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2qeo502/belum-kembali-dari-mudik-diskon-tarif-tol-berlaku-hari-ini-hingga-jumat"
     },
     {
         "judul": "Ditanya Apakah akan Maju Pilgub Jawa Timur, Ini Respons Cak Imin",
         "kategori": "News",
-        "waktu_publish": "41 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2qe8377/ditanya-apakah-akan-maju-pilgub-jawa-timur-ini-respons-cak-imin"
     },
     {
         "judul": "Momen Vokalis RHCP Ikut Ritual Bareng Sikerei di Mentawai",
         "kategori": "Ameera",
-        "waktu_publish": "41 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ameera.republika.co.id/berita/sc2kwd330/momen-vokalis-rhcp-ikut-ritual-bareng-sikerei-di-mentawai"
     },
     {
         "judul": "Siap Jelajahi Potensi Desa, BSI Explore 2025 Jadi Rebutan Mahasiswa",
         "kategori": "News",
-        "waktu_publish": "46 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2q4r349/siap-jelajahi-potensi-desa-bsi-explore-2025-jadi-rebutan-mahasiswa"
     },
     {
         "judul": "Krisis Sektor Properti Jadi Tantangan Perekonomian China",
         "kategori": "Ekonomi",
-        "waktu_publish": "48 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ekonomi.republika.co.id/berita/sc2p72457/krisis-sektor-properti-jadi-tantangan-perekonomian-china"
     },
     {
         "judul": "Kemeriahan Festival Balon Udara di Pekalongan",
         "kategori": "Visual",
-        "waktu_publish": "48 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://visual.republika.co.id/berita/sc2lfl375/kemeriahan-festival-balon-udara-di-pekalongan"
     },
     {
         "judul": "Projo Dukung Bobby Nasution Maju Pilkada Sumut",
         "kategori": "News",
-        "waktu_publish": "49 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://news.republika.co.id/berita/sc2q17377/projo-dukung-bobby-nasution-maju-pilkada-sumut"
     },
     {
         "judul": "Teknologi Apa yang Berkembang di Zaman Nabi Hud?",
         "kategori": "Ihram",
-        "waktu_publish": "53 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ihram.republika.co.id/berita/sc2hpb430/teknologi-apa-yang-berkembang-di-zaman-nabi-hud"
     },
     {
         "judul": "Legenda Sepak Bola Jerman Bernd Holzenbein Tutup Usia",
         "kategori": "Sport",
-        "waktu_publish": "53 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://sport.republika.co.id/berita/sc2lpp463/legenda-sepak-bola-jerman-bernd-holzenbein-tutup-usia"
     },
     {
         "judul": "MU Ikut Memantau Koopmeiners, Sinyal Bahaya untuk Juventus?",
         "kategori": "Sport",
-        "waktu_publish": "56 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://sport.republika.co.id/berita/sc2p9j456/mu-ikut-memantau-koopmeiners-sinyal-bahaya-untuk-juventus"
     },
     {
         "judul": "Agnez Mo, HIVI!, Hingga D'Masiv akan Tampil di SOORA Music Festival",
         "kategori": "Ameera",
-        "waktu_publish": "59 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-04-17 14:39:34",
         "url": "https://ameera.republika.co.id/berita/sc2pk9370/agnez-mo-hivi-hingga-dmasiv-akan-tampil-di-soora-music-festival"
-    },
-    {
-        "judul": "OJK: Sektor PVML Telah Siap Hadapi Berakhirnya Stimulus Covid-19 KDK Perlakuan Khusus",
-        "kategori": "Ekonomi",
-        "waktu_publish": "59 menit yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://ekonomi.republika.co.id/berita/sc2pj2349/ojk-sektor-pvml-telah-siap-hadapi-berakhirnya-stimulus-covid19-kdk-perlakuan-khusus"
-    },
-    {
-        "judul": "Usai Libur Lebaran, Banyak Warga Pilih Jual Emas",
-        "kategori": "Visual",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://visual.republika.co.id/berita/sc2okz375/usai-libur-lebaran-banyak-warga-pilih-jual-emas"
-    },
-    {
-        "judul": "Eratkan Belt and Road Initiative, Fokus Utama Kunjungan Menlu China",
-        "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://internasional.republika.co.id/berita/sc2eew488/eratkan-belt-and-road-initiative-fokus-utama-kunjungan-menlu-china"
-    },
-    {
-        "judul": "PBB Umumkan Seruan Global Bantuan untuk Gaza",
-        "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://internasional.republika.co.id/berita/sc2jjb463/pbb-umumkan-seruan-global-bantuan-untuk-gaza"
-    },
-    {
-        "judul": "InJourney Komitmen Bangun Pariwisata Ramah Lingkungan di Danau Toba",
-        "kategori": "Esgnow",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://esgnow.republika.co.id/berita/sc2obn457/injourney-komitmen-bangun-pariwisata-ramah-lingkungan-di-danau-toba"
-    },
-    {
-        "judul": "9 Fakta yang Tercipta Setelah Dortmund Singkirkan Atletico Madrid di Liga Champions",
-        "kategori": "Sport",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://sport.republika.co.id/berita/sc2ou8456/9-fakta-yang-tercipta-setelah-dortmund-singkirkan-atletico-madrid-di-liga-champions"
-    },
-    {
-        "judul": "Hingga 21 April 2024, Warga Jatim Diminta Waspada Potensi Cuaca Ekstrem",
-        "kategori": "Rejogja",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://rejogja.republika.co.id/berita/sc2ova432/hingga-21-april-2024-warga-jatim-diminta-waspada-potensi-cuaca-ekstrem"
-    },
-    {
-        "judul": "Angka Kecelakaan Arus Mudik-Balik 2024 Diklaim Turun",
-        "kategori": "News",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://www.republika.id/posts/52062/angka-kecelakaan-arus-mudik-balik-2024-diklaim-turun"
-    },
-    {
-        "judul": "LPS Ingatkan Perbankan Pentingnya Perlindungan Data Pribadi",
-        "kategori": "Ekonomi",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://ekonomi.republika.co.id/berita/sc2nzh457/lps-ingatkan-perbankan-pentingnya-perlindungan-data-pribadi"
-    },
-    {
-        "judul": "Tradisi Lebaran Ketupat di Lereng Gunung Merapi",
-        "kategori": "Visual",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://visual.republika.co.id/berita/sc2lc0375/tradisi-lebaran-ketupat-di-lereng-gunung-merapi"
-    },
-    {
-        "judul": "Tentara Israel Terus Jadikan Masjid Sasaran Serangan",
-        "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://internasional.republika.co.id/berita/sc2axb488/tentara-israel-terus-jadikan-masjid-sasaran-serangan"
-    },
-    {
-        "judul": "Pertamina NRE Ajak Mahasiswa UPER Kuasai Kompetensi Green Skills",
-        "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-04-17 14:18:06",
-        "url": "https://ruzka.republika.co.id/info-kampus/1674548462/pertamina-nre-ajak-mahasiswa-uper-kuasai-kompetensi-green-skills"
     }
 ]
