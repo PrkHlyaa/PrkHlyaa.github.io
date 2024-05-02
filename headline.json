@@ -1,352 +1,352 @@
 [
     {
+        "judul": "Jokowi Optimistis Timnas U-23 Indonesia Menang Lawan Irak",
+        "kategori": "News",
+        "waktu_publish": "5 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://news.republika.co.id/berita/scu907328/jokowi-optimistis-timnas-u23-indonesia-menang-lawan-irak"
+    },
+    {
+        "judul": "Warganet Riuh Soal Beli Rumah Vs Ngontrak, Perencana Keuangan Ungkap Mana yang Lebih Baik",
+        "kategori": "Ameera",
+        "waktu_publish": "5 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ameera.republika.co.id/berita/scu8z0414/warganet-riuh-soal-beli-rumah-vs-ngontrak-perencana-keuangan-ungkap-mana-yang-lebih-baik"
+    },
+    {
+        "judul": "Nyi Hadjar Dewantara, Tokoh Perempuan dan Pendidikan",
+        "kategori": "News",
+        "waktu_publish": "7 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://www.republika.id/posts/52444/nyi-hadjar-dewantara-tokoh-perempuan-dan-pendidikan"
+    },
+    {
+        "judul": "Bangladesh Tetap Liburkan Sekolah Saat Suhu Panas Capai 32 Derajat Celsius",
+        "kategori": "Esgnow",
+        "waktu_publish": "9 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://esgnow.republika.co.id/berita/scu8s0463/bangladesh-tetap-liburkan-sekolah-saat-suhu-panas-capai-32-derajat-celsius"
+    },
+    {
+        "judul": "Klub Legendaris Italia Ini Resmi Kembali ke Kancah Serie A",
+        "kategori": "Sport",
+        "waktu_publish": "13 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://sport.republika.co.id/berita/scu8lr456/klub-legendaris-italia-ini-resmi-kembali-ke-kancah-serie-a"
+    },
+    {
+        "judul": "Singapura Bangun Pembangkit \u2018Fast Start\u2019 Amankan Pasokan Listrik",
+        "kategori": "Esgnow",
+        "waktu_publish": "15 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://esgnow.republika.co.id/berita/scu8iq328/singapura-bangun-pembangkit-fast-start-amankan-pasokan-listrik"
+    },
+    {
+        "judul": "Netanyahu Putuskan Serang Rafah, Alquran Isyaratkan Kegemaran Buruk Bangsa Yahudi",
+        "kategori": "Iqra",
+        "waktu_publish": "17 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://iqra.republika.co.id/berita/scu8fo320/netanyahu-putuskan-serang-rafah-alquran-isyaratkan-kegemaran-buruk-bangsa-yahudi"
+    },
+    {
+        "judul": "IHSG Diprediksi Melemah Terbatas di Tengah The Fed Tahan Suku Bunga",
+        "kategori": "Ekonomi",
+        "waktu_publish": "20 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ekonomi.republika.co.id/berita/scu8b2502/ihsg-diprediksi-melemah-terbatas-di-tengah-the-fed-tahan-suku-bunga"
+    },
+    {
+        "judul": "Harga Emas Antam Melesat Lagi Jadi Rp 1,327 Juta per Gram",
+        "kategori": "Ekonomi",
+        "waktu_publish": "23 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ekonomi.republika.co.id/berita/scu85p502/harga-emas-antam-melesat-lagi-jadi-rp-1327-juta-per-gram"
+    },
+    {
+        "judul": "UNM Gelar Edufair 2024, Berikan Beasiswa Bagi Calon Mahasiswa Melalui Jalur Undangan",
+        "kategori": "News",
+        "waktu_publish": "24 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://news.republika.co.id/berita/scu71x463/unm-gelar-edufair-2024-berikan-beasiswa-bagi-calon-mahasiswa-melalui-jalur-undangan"
+    },
+    {
+        "judul": "Bahas Keberanian Erick Thohir dalam Tangani Sepak Bola Indonesia, Hanung: Nyalinya Ampun",
+        "kategori": "Sport",
+        "waktu_publish": "25 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://sport.republika.co.id/berita/scu5hw456/bahas-keberanian-erick-thohir-dalam-tangani-sepak-bola-indonesia-hanung-nyalinya-ampun"
+    },
+    {
+        "judul": "Korsel Catat Penurunan Inflasi pada April, Saatnya Plesiran ke Sana?",
+        "kategori": "Ekonomi",
+        "waktu_publish": "26 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ekonomi.republika.co.id/berita/scu816502/korsel-catat-penurunan-inflasi-pada-april-saatnya-plesiran-ke-sana"
+    },
+    {
+        "judul": "Baru Diluncurkan, Album 17 Is Right Here Seventeen Dibuang-buang di Jepang, Ada Apa?",
+        "kategori": "Ameera",
+        "waktu_publish": "30 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ameera.republika.co.id/berita/scu7tx414/baru-diluncurkan-album-17-is-right-here-seventeen-dibuangbuang-di-jepang-ada-apa"
+    },
+    {
+        "judul": "'BRI Peduli Ini Sekolahku', Langkah Nyata BRI Majukan Pendidikan Anak Bangsa",
+        "kategori": "Ekonomi",
+        "waktu_publish": "38 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ekonomi.republika.co.id/berita/scu7gz463/bri-peduli-ini-sekolahku-langkah-nyata-bri-majukan-pendidikan-anak-bangsa"
+    },
+    {
+        "judul": "Xikers tak Sabar Jumpa Penggemar di Saranghaeyo Indonesia 2024",
+        "kategori": "Ameera",
+        "waktu_publish": "38 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
+        "url": "https://ameera.republika.co.id/berita/scu7g0328/xikers-tak-sabar-jumpa-penggemar-di-saranghaeyo-indonesia-2024"
+    },
+    {
         "judul": "Asuransi Mobil di Amerika, Seberapa Mahal?",
         "kategori": "Video",
-        "waktu_publish": "54 detik yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "40 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://tv.republika.co.id/berita/scu1vn313/asuransi-mobil-di-amerika-seberapa-mahal"
     },
     {
         "judul": "Presiden Jokowi Kulineran di Mie Gacoan, Siapa Pemilik Gerai Makanan Viral Ini?",
         "kategori": "Ameera",
-        "waktu_publish": "2 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "41 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ameera.republika.co.id/berita/scu7bs414/presiden-jokowi-kulineran-di-mie-gacoan-siapa-pemilik-gerai-makanan-viral-ini"
     },
     {
         "judul": "Ayam Cap Nikmat Gunakan Resep 24 Bumbu Rempah",
         "kategori": "Ameera",
-        "waktu_publish": "6 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "45 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ameera.republika.co.id/berita/scu5dp328/ayam-cap-nikmat-gunakan-resep-24-bumbu-rempah"
     },
     {
         "judul": "Gen Z Punya Akun Media Sosial Lebih dari Satu, Psikolog: Seperti Pakai Banyak Topeng",
         "kategori": "Ameera",
-        "waktu_publish": "14 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "53 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ameera.republika.co.id/berita/scu6r1414/gen-z-punya-akun-media-sosial-lebih-dari-satu-psikolog-seperti-pakai-banyak-topeng"
     },
     {
         "judul": "Cara Krisis Iklim Turunkan Kualitas Belajar di Asia",
         "kategori": "Esgnow",
-        "waktu_publish": "15 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "54 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://esgnow.republika.co.id/berita/scu6pz328/cara-krisis-iklim-turunkan-kualitas-belajar-di-asia"
     },
     {
         "judul": "Universitas BSI dan P4 Jakarta Barat Sukses Gelar BSI Digination",
         "kategori": "News",
-        "waktu_publish": "15 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "55 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://news.republika.co.id/berita/scu6ot463/universitas-bsi-dan-p4-jakarta-barat-sukses-gelar-bsi-digination"
     },
     {
-        "judul": "Jika Tangisan adalah Manusiawi, Bagaimana Hakikat Menangis Menurut Alquran?",
+        "judul": "Jika Tangisan Adalah Manusiawi, Bagaimana Hakikat Menangis Menurut Alquran?",
         "kategori": "Iqra",
-        "waktu_publish": "15 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "55 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://iqra.republika.co.id/berita/scu6oq320/jika-tangisan-adalah-manusiawi-bagaimana-hakikat-menangis-menurut-alquran"
     },
     {
         "judul": "Menteri Haji dan Umrah Arab Saudi Bertemu Wapres untuk Bahas Penyelenggaraan Haji 1445 H/2024 M di I",
         "kategori": "Network",
-        "waktu_publish": "19 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "58 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://topnews62.com/posts/304578/menteri-haji-dan-umrah-arab-saudi-bertemu-wapres-untuk-bahas-penyelenggaraan-haji-1445-h-2024-m-di-indonesia"
     },
     {
         "judul": "Neta V-II Meluncur di PEVS 2024, Intip Spesifikasinya",
         "kategori": "Network",
-        "waktu_publish": "19 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "58 menit yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://motoresto.id/posts/304460/neta-v-ii-meluncur-di-pevs-2024-intip-spesifikasinya"
     },
     {
         "judul": "Sindiran Keras Ki Hadjar Dewantara",
         "kategori": "News",
-        "waktu_publish": "20 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://www.republika.id/posts/52443/sindiran-keras-ki-hadjar-dewantara"
     },
     {
         "judul": "DJPb Papua: Penerimaan Pajak dalam Negeri Hingga Maret 2024 Naik",
         "kategori": "News",
-        "waktu_publish": "21 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://news.republika.co.id/berita/scu6f7456/djpb-papua-penerimaan-pajak-dalam-negeri-hingga-maret-2024-naik"
     },
     {
         "judul": "SIG: Volume Penjualan Capai 9,18 Juta Ton pada Kuartal I 2024",
         "kategori": "Ekonomi",
-        "waktu_publish": "28 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ekonomi.republika.co.id/berita/scu640502/sig-volume-penjualan-capai-918-juta-ton-pada-kuartal-i-2024"
     },
     {
         "judul": "Studi: Lapisan Es di Kutub Utara Sekarang Jadi Sumber Gas Rumah Kaca",
         "kategori": "Esgnow",
-        "waktu_publish": "29 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://esgnow.republika.co.id/berita/scu62k328/studi-lapisan-es-di-kutub-utara-sekarang-jadi-sumber-gas-rumah-kaca"
     },
     {
         "judul": "Aplikasi BDKlim Prediksi Kelembaban Udara untuk Lihat Kasus DBD di Bali",
         "kategori": "Network",
-        "waktu_publish": "30 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://oohya.republika.co.id/egek/1744604652/aplikasi-bdklim-prediksi-kelembaban-udara-untuk-lihat-kasus-dbd-di-bali"
     },
     {
         "judul": "Pakubuwono II Pindah Keraton Bawa 2 Pohon Beringin dari Kartosuro, Kenapa Melibatkan Ulama?",
         "kategori": "Network",
-        "waktu_publish": "36 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://oohya.republika.co.id/lincak/1744605949/pakubuwono-ii-pindah-keraton-bawa-2-pohon-beringin-dari-kartosuro-kenapa-melibatkan-ulama"
     },
     {
         "judul": "Kunci Bahagia Menurut Islam Ini Diungkap Sains Psikologi Modern",
         "kategori": "Islam Digest",
-        "waktu_publish": "36 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://islamdigest.republika.co.id/berita/scu5pq320/kunci-bahagia-menurut-islam-ini-diungkap-sains-psikologi-modern"
     },
     {
         "judul": "Masyarakat Adat Protes Pemerintah Brasil yang tak Lindungi Tanah Leluhur",
         "kategori": "Esgnow",
-        "waktu_publish": "38 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://esgnow.republika.co.id/berita/scu5nb328/masyarakat-adat-protes-pemerintah-brasil-yang-tak-lindungi-tanah-leluhur"
     },
     {
         "judul": "Heran Mengapa Gigi Jadi Kuning? Jangan-Jangan Anda Lakukan Kesalahan Sederhana Ini",
         "kategori": "Ameera",
-        "waktu_publish": "39 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ameera.republika.co.id/berita/scu5ly414/heran-mengapa-gigi-jadi-kuning-janganjangan-anda-lakukan-kesalahan-sederhana-ini"
     },
     {
         "judul": "Pelatih Dortmund Senang Pemain Buangan MU Ini Bersinar di Timnya",
         "kategori": "Sport",
-        "waktu_publish": "40 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://sport.republika.co.id/berita/scu54f456/pelatih-dortmund-senang-pemain-buangan-mu-ini-bersinar-di-timnya"
     },
     {
         "judul": "Doa Nabi Musa yang Diabadikan Alquran",
         "kategori": "Video",
-        "waktu_publish": "49 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://tv.republika.co.id/berita/scu55j313/doa-nabi-musa-yang-diabadikan-alquran"
     },
     {
         "judul": "The Fed Tetap Optimistis Inflasi Melandai Tahun Ini",
         "kategori": "Ekonomi",
-        "waktu_publish": "52 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ekonomi.republika.co.id/berita/scu4zf502/the-fed-tetap-optimistis-inflasi-melandai-tahun-ini"
     },
     {
         "judul": "Ini Jadwal Siaran Langsung Timnas U-23 Indonesia Vs Irak Berebut Tiket Olimpiade 2024",
         "kategori": "Sport",
-        "waktu_publish": "53 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://sport.republika.co.id/berita/scu4z0456/ini-jadwal-siaran-langsung-timnas-u23-indonesia-vs-irak-berebut-tiket-olimpiade-2024"
     },
     {
         "judul": "Ajak Doakan Korban Perang, Paus Fransiskus: Industri Senjata Ambil Untung dari Kematian",
         "kategori": "Internasional",
-        "waktu_publish": "57 menit yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://internasional.republika.co.id/berita/scu4r0414/ajak-doakan-korban-perang-paus-fransiskus-industri-senjata-ambil-untung-dari-kematian"
     },
     {
         "judul": "Neta V-II Meluncur di PEVS 2024, Intip Spesifikasinya",
         "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://motoresto.id/posts/304460/neta-v-ii-meluncur-di-pevs-2024-intip-spesifikasinya"
     },
     {
         "judul": "Airlangga: RI Masih On-Track Untuk Capai Visi Indonesia Emas 2045",
         "kategori": "Ekonomi",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ekonomi.republika.co.id/berita/scu4e3502/airlangga-ri-masih-ontrack-untuk-capai-visi-indonesia-emas-2045"
     },
     {
         "judul": "Polisi Ungkap Ini Modus Kasus Pencabulan ke Pelajar Saat Bermain Game Online di Jabar",
         "kategori": "Rejabar",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://rejabar.republika.co.id/berita/scu4dd512/polisi-ungkap-ini-modus-kasus-pencabulan-ke-pelajar-saat-bermain-game-online-di-jabar"
     },
     {
         "judul": "Gol Tunggal Niclas Fullkrug Bawa Dortmund Kalahkan PSG",
         "kategori": "Visual",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://visual.republika.co.id/berita/scu490375/gol-tunggal-niclas-fullkrug-bawa-dortmund-kalahkan-psg"
     },
     {
         "judul": "Ingin Selalu Rukun dengan Pasangan? Baca Doa Ini Sebelum Masuk Rumah",
         "kategori": "Iqra",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://iqra.republika.co.id/berita/scu48o320/ingin-selalu-rukun-dengan-pasangan-baca-doa-ini-sebelum-masuk-rumah"
     },
     {
         "judul": "Deklarasi Suku Bajau Lindungi Cagar Biosfer",
         "kategori": "Esgnow",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://esgnow.republika.co.id/berita/scu48h328/deklarasi-suku-bajau-lindungi-cagar-biosfer"
     },
     {
         "judul": "WHO: Invasi Israel ke Rafah Bisa Jadi Bencana Kemanusiaan",
         "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://internasional.republika.co.id/berita/scu44q414/who-invasi-israel-ke-rafah-bisa-jadi-bencana-kemanusiaan"
     },
     {
         "judul": "PSG tak Merasa Kalah, Siap Balas Dortmund di Leg Kedua",
         "kategori": "Sport",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://sport.republika.co.id/berita/scu419456/psg-tak-merasa-kalah-siap-balas-dortmund-di-leg-kedua"
     },
     {
         "judul": "Nobar Timnas Vs Irak Kembali akan digelar di Alun-alun Puspawangi Indramayu",
         "kategori": "Rejabar",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://rejabar.republika.co.id/berita/scu3yh512/nobar-timnas-vs-irak-kembali-akan-digelar-di-alunalun-puspawangi-indramayu"
     },
     {
         "judul": "Pangeran William Bagikan Kabar Terbaru Tentang Kate Middleton",
         "kategori": "Ameera",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://ameera.republika.co.id/berita/scu3uz414/pangeran-william-bagikan-kabar-terbaru-tentang-kate-middleton"
     },
     {
         "judul": "Pengamat Bicara Peluang Menang Timnas U-23 Lawan Irak dan Lolos Olimpiade",
         "kategori": "Sport",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://sport.republika.co.id/berita/scu3kq328/pengamat-bicara-peluang-menang-timnas-u23-lawan-irak-dan-lolos-olimpiade"
     },
     {
         "judul": "Ratusan Rumah Alami Kerusakan Akibat Gempa Bumi di Garut, 13 Rusak Berat",
         "kategori": "Rejabar",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-02 10:19:04",
         "url": "https://rejabar.republika.co.id/berita/scu3jf512/ratusan-rumah-alami-kerusakan-akibat-gempa-bumi-di-garut-13-rusak-berat"
-    },
-    {
-        "judul": "Berhenti Jadi Model, Bella Hadid Senang tak Perlu Lagi Pasang 'Wajah Palsu'",
-        "kategori": "Ameera",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://ameera.republika.co.id/berita/scu3ij414/berhenti-jadi-model-bella-hadid-senang-tak-perlu-lagi-pasang-wajah-palsu"
-    },
-    {
-        "judul": "International Global Network (IGN) Hadirkan Pengalaman Simulasi Sidang PBB untuk Anak Muda dari Seluruh Dunia",
-        "kategori": "Network",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://senandika.republika.co.id/lentera/1734605828/international-global-network-ign-hadirkan-pengalaman-simulasi-sidang-pbb-untuk-anak-muda-dari-seluruh-dunia"
-    },
-    {
-        "judul": "Inflasi AS Belum Terkendali, The Fed Tahan Suku Bunga Acuan",
-        "kategori": "Ekonomi",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://ekonomi.republika.co.id/berita/scu29t502/inflasi-as-belum-terkendali-the-fed-tahan-suku-bunga-acuan"
-    },
-    {
-        "judul": "Jokowi Resmikan Pembangunan Jalan di NTB Senilai Rp 211 M",
-        "kategori": "News",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://news.republika.co.id/berita/scu28k328/jokowi-resmikan-pembangunan-jalan-di-ntb-senilai-rp-211-m"
-    },
-    {
-        "judul": "Aksi Demo Pro-Palestina di Universitas Columbia Kian Memanas",
-        "kategori": "Video",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://tv.republika.co.id/berita/scu1ox313/aksi-demo-propalestina-di-universitas-columbia-kian-memanas"
-    },
-    {
-        "judul": "IPW Curiga RAT Dapat Izin tak Resmi Jadi Pengawal Bos Tambang",
-        "kategori": "News",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://news.republika.co.id/berita/scu1ik328/ipw-curiga-rat-dapat-izin-tak-resmi-jadi-pengawal-bos-tambang"
-    },
-    {
-        "judul": "Toyota Starlet Generasi Terbaru di Rumorkan Akan Hadir Versi GR",
-        "kategori": "Network",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://motoresto.id/posts/304459/toyota-starlet-generasi-terbaru-di-rumorkan-akan-hadir-versi-gr"
-    },
-    {
-        "judul": "Pelatih Dortmund: Kami Memamg Pantas Menang Atas PSG",
-        "kategori": "Sport",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://sport.republika.co.id/berita/scu1f6456/pelatih-dortmund-kami-memamg-pantas-menang-atas-psg"
-    },
-    {
-        "judul": "Jimly Harap Emosi Masyarakat Sudah Mereda Terkait Pilpres",
-        "kategori": "News",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://news.republika.co.id/berita/scu12a328/jimly-harap-emosi-masyarakat-sudah-mereda-terkait-pilpres"
-    },
-    {
-        "judul": "Di Tengah Banjir Protes terhadap Israel, DPR AS Loloskan RUU Antisemitisme",
-        "kategori": "Internasional",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://www.republika.id/posts/52441/di-tengah-banjir-protes-terhadap-israel-dpr-as-loloskan-ruu-antisemitisme"
-    },
-    {
-        "judul": "Sektor Otomotif Butuh SDM Andal",
-        "kategori": "Ekonomi",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://ekonomi.republika.co.id/berita/scu0lz468/sektor-otomotif-butuh-sdm-andal"
-    },
-    {
-        "judul": "Hujan Petir Landa Sebagian Ibu Kota Indonesia Hari Ini",
-        "kategori": "News",
-        "waktu_publish": "3 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://news.republika.co.id/berita/sctzwz328/hujan-petir-landa-sebagian-ibu-kota-indonesia-hari-ini"
-    },
-    {
-        "judul": "Dana Murah Bank Mega Syariah Capai 30,97 Persen di Kuartal I 2024",
-        "kategori": "Sharia",
-        "waktu_publish": "3 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://sharia.republika.co.id/berita/sctza2502/dana-murah-bank-mega-syariah-capai-3097-persen-di-kuartal-i-2024"
-    },
-    {
-        "judul": "Prilly Latuconsina Ajak Lari Horor untuk Promo Film Terbaru",
-        "kategori": "Ameera",
-        "waktu_publish": "3 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://ameera.republika.co.id/berita/sctz2n328/prilly-latuconsina-ajak-lari-horor-untuk-promo-film-terbaru"
-    },
-    {
-        "judul": "Garuda Indonesia Catat Pendapatan Usaha Tumbuh Positif di Kuartal I",
-        "kategori": "Ekonomi",
-        "waktu_publish": "3 jam yang lalu",
-        "waktu_scraping": "2024-05-02 09:39:55",
-        "url": "https://ekonomi.republika.co.id/berita/sctyyo502/garuda-indonesia-catat-pendapatan-usaha-tumbuh-positif-di-kuartal-i"
     }
 ]
