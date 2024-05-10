@@ -1,352 +1,352 @@
 [
     {
+        "judul": "Khofifah Harap Gerindra, Golkar, PAN Setujui Duetnya dengan Emil di Pilgub Jatim",
+        "kategori": "News",
+        "waktu_publish": "27 detik yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://news.republika.co.id/berita/sd9gkr409/khofifah-harap-gerindra-golkar-pan-setujui-duetnya-dengan-emil-di-pilgub-jatim"
+    },
+    {
+        "judul": "Firasat Ortu Didatangi Lewat Mimpi, Mayat Wanita Muda Ditemukan Tewas di Lemari Kosan",
+        "kategori": "Rejabar",
+        "waktu_publish": "2 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://rejabar.republika.co.id/berita/sd9ghn512/firasat-ortu-didatangi-lewat-mimpi-mayat-wanita-muda-ditemukan-tewas-di-lemari-kosan"
+    },
+    {
+        "judul": "Asrama Haji Bekasi Siap Kedatangan Calon Jamaaah Haji Esok",
+        "kategori": "Visual",
+        "waktu_publish": "3 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://visual.republika.co.id/berita/sd9gfz491/asrama-haji-bekasi-siap-kedatangan-calon-jamaaah-haji-esok"
+    },
+    {
+        "judul": "Presiden Diingatkan tak Pilih Pansel KPK Seperti Periode Sebelumnya",
+        "kategori": "News",
+        "waktu_publish": "4 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://www.republika.id/posts/52672/presiden-diingatkan-tak-pilih-pansel-kpk-seperti-periode-sebelumnya"
+    },
+    {
+        "judul": "Gudang Pabrik Limbah di Panyileukan Bandung Ludes Terbakar",
+        "kategori": "Rejabar",
+        "waktu_publish": "13 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://rejabar.republika.co.id/berita/sd9g06512/gudang-pabrik-limbah-di-panyileukan-bandung-ludes-terbakar"
+    },
+    {
+        "judul": "Oknum Auditor Disebut Minta Uang untuk Opini WTP Kementan, BPK Buka Suara",
+        "kategori": "Ekonomi",
+        "waktu_publish": "15 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://ekonomi.republika.co.id/berita/sd9fvr490/oknum-auditor-disebut-minta-uang-untuk-opini-wtp-kementan-bpk-buka-suara"
+    },
+    {
+        "judul": "Sejumlah Negara Eropa Pertimbangkan Akui Kemerdekaan Palestina",
+        "kategori": "Internasional",
+        "waktu_publish": "17 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://internasional.republika.co.id/berita/sd9ft1320/sejumlah-negara-eropa-pertimbangkan-akui-kemerdekaan-palestina"
+    },
+    {
+        "judul": "BP Batam dan PT Persero Batam Gelar Groundbreaking Proyek Pembangunan Terminal Peti Kemas",
+        "kategori": "Ekonomi",
+        "waktu_publish": "24 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://ekonomi.republika.co.id/berita/sd9fgt349/bp-batam-dan-pt-persero-batam-gelar-groundbreaking-proyek-pembangunan-terminal-peti-kemas"
+    },
+    {
+        "judul": "Menhub: Skybridge Stasiun ke Pelabuhan Banyuwangi Dirancang Perancang Kenamaan",
+        "kategori": "News",
+        "waktu_publish": "26 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://news.republika.co.id/berita/sd9fel330/menhub-skybridge-stasiun-ke-pelabuhan-banyuwangi-dirancang-perancang-kenamaan"
+    },
+    {
+        "judul": "Menag Perpendek Masa Kerja Petugas Haji Menjadi 52 Hari",
+        "kategori": "Khazanah",
+        "waktu_publish": "29 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://www.republika.id/posts/52670/menag-perpendek-masa-kerja-petugas-haji-menjadi-52-hari"
+    },
+    {
+        "judul": "Stray Kids Kena Rasisme oleh Fotografer di Met Gala, Disamakan dengan Robot",
+        "kategori": "Ameera",
+        "waktu_publish": "43 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
+        "url": "https://ameera.republika.co.id/berita/sd9elj425/stray-kids-kena-rasisme-oleh-fotografer-di-met-gala-disamakan-dengan-robot"
+    },
+    {
         "judul": "Mahfud MD Ungkap Bergesernya Kecurangan Pemilu",
         "kategori": "News",
-        "waktu_publish": "8 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "53 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9e5x484/mahfud-md-ungkap-bergesernya-kecurangan-pemilu"
     },
     {
         "judul": "Sarjana Terbaik, Ini Sisi Lain Sosok Kader Khofifah Penyusun Roadmap Perempuan dan Anak",
         "kategori": "Network",
-        "waktu_publish": "9 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "53 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://cari.republika.co.id/posts/305994/sarjana-terbaik-ini-sisi-lain-sosok-kader-khofifah-penyusun-roadmap-perempuan-dan-anak"
     },
     {
         "judul": "Respons Angkuh Netanyahu Usai Biden Ancam Setop Kirim Senjata Jika Israel Serang Rafah",
         "kategori": "News",
-        "waktu_publish": "10 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "54 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9e37409/respons-angkuh-netanyahu-usai-biden-ancam-setop-kirim-senjata-jika-israel-serang-rafah"
     },
     {
         "judul": "PSI Sebut Kaesang Targetkan Kemenangan pada Pilwakot Solo",
         "kategori": "News",
-        "waktu_publish": "14 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "59 menit yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9dvz484/psi-sebut-kaesang-targetkan-kemenangan-pada-pilwakot-solo"
     },
     {
         "judul": "Waspada Modus Haji Tanpa Antri",
         "kategori": "Ihram",
-        "waktu_publish": "15 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ihram.republika.co.id/berita/sd9dsw430/waspada-modus-haji-tanpa-antri"
     },
     {
         "judul": "Pemprov DIY Siapkan Manajemen Risiko Bencana di Kawasan Sumbu Filosofi",
         "kategori": "News",
-        "waktu_publish": "15 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9du7330/pemprov-diy-siapkan-manajemen-risiko-bencana-di-kawasan-sumbu-filosofi"
     },
     {
         "judul": "Industri Zakat Perlu Pijakan yang Kokoh",
         "kategori": "Retizen",
-        "waktu_publish": "16 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://retizen.republika.co.id/posts/305987/industri-zakat-perlu-pijakan-yang-kokoh"
     },
     {
         "judul": "Legislator Minta Pemprov Bina Juru Parkir Liar di Jakarta",
         "kategori": "News",
-        "waktu_publish": "19 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9dn7330/legislator-minta-pemprov-bina-juru-parkir-liar-di-jakarta"
     },
     {
         "judul": "Membanggakan, Kafilah Muba Sabet Juara Umum Lomba MTQ Provinsi Sumsel 2024",
         "kategori": "News",
-        "waktu_publish": "21 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9dk8349/membanggakan-kafilah-muba-sabet-juara-umum-lomba-mtq-provinsi-sumsel-2024"
     },
     {
         "judul": "Yuk, Sayangi Adik",
         "kategori": "Retizen",
-        "waktu_publish": "23 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://retizen.republika.co.id/posts/305937/yuk-sayangi-adik"
     },
     {
         "judul": "Infografis Tukang Parkir Liar di Minimarket Bikin\u00a0Resah, Ditertibkan",
         "kategori": "Visual",
-        "waktu_publish": "24 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://visual.republika.co.id/berita/sd9bfh409/infografis-tukang-parkir-liar-di-minimarket-bikinresah-ditertibkan"
     },
     {
         "judul": "Danpaspampres Beri Brevet Kehormatan Setia Waspada kepada 28 Perwira TNI AU",
         "kategori": "Network",
-        "waktu_publish": "25 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://seputarmiliter.id/posts/305990/danpaspampres-beri-brevet-kehormatan-setia-waspada-kepada-28-perwira-tni-au"
     },
     {
         "judul": "Jadwal Kapal Doloronda 11-17 Mei 2024,  Berlayar dari  Surabaya hingga Ambon",
         "kategori": "Network",
-        "waktu_publish": "25 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://shippingcargo.co.id/posts/305988/jadwal-kapal-doloronda-11-17-mei-2024-berlayar-dari-surabaya-hingga-ambon"
     },
     {
         "judul": "Wacana 40 Kementerian, Gerindra: Apakah Salah Mengakomodasi Kawan-Kawan?",
         "kategori": "News",
-        "waktu_publish": "27 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://www.republika.id/posts/52667/wacana-40-kementerian-gerindra-apakah-salah-mengakomodasi-kawan-kawan"
     },
     {
         "judul": "Akademisi: Dana Haji Jaga Stabilitas Keuangan Bank Syariah",
         "kategori": "Sharia",
-        "waktu_publish": "28 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://sharia.republika.co.id/berita/sd9cgi457/akademisi-dana-haji-jaga-stabilitas-keuangan-bank-syariah"
     },
     {
         "judul": "Kemenag Apresiasi Farhan yang Berani Menghalau Pengeroyokan di Pamulang",
         "kategori": "News",
-        "waktu_publish": "31 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9d45330/kemenag-apresiasi-farhan-yang-berani-menghalau-pengeroyokan-di-pamulang"
     },
     {
         "judul": "Perbanyaklah Sholawat di Hari Jumat",
         "kategori": "Video",
-        "waktu_publish": "32 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://tv.republika.co.id/berita/sd9d1v313/perbanyaklah-sholawat-di-hari-jumat"
     },
     {
         "judul": "MES DIY Serukan Pembuatan Roadmap Halal di Yogyakarta",
         "kategori": "Rejogja",
-        "waktu_publish": "39 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://rejogja.republika.co.id/berita/sd9cpq291/mes-diy-serukan-pembuatan-roadmap-halal-di-yogyakarta"
     },
     {
         "judul": "Perkuat Distribusi, Badan Pangan Ingin Perbanyak Cold Storage",
         "kategori": "Ekonomi",
-        "waktu_publish": "40 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ekonomi.republika.co.id/berita/sd9col490/perkuat-distribusi-badan-pangan-ingin-perbanyak-cold-storage"
     },
     {
         "judul": "Rektor UNRI Cabut Laporan Terhadap Mahasiswanya",
         "kategori": "News",
-        "waktu_publish": "41 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9cmu330/rektor-unri-cabut-laporan-terhadap-mahasiswanya"
     },
     {
         "judul": "Polisi Ungkap Kekerasan Terhadap Anak di Sleman: Pelaku Tembak Korban dengan Senapan Angin",
         "kategori": "News",
-        "waktu_publish": "43 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9cjp349/polisi-ungkap-kekerasan-terhadap-anak-di-sleman-pelaku-tembak-korban-dengan-senapan-angin"
     },
     {
         "judul": "Pakar: Indonesia Perlu Maksimalkan Produksi Pangan yang Sesuai",
         "kategori": "Ekonomi",
-        "waktu_publish": "43 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ekonomi.republika.co.id/berita/sbw50u457/pakar-indonesia-perlu-maksimalkan-produksi-pangan-yang-sesuai"
     },
     {
         "judul": "Komentar Si Joker Setelah Dinobatkan Sebagai 'Pangeran' NBA untuk Ketiga Kalinya",
         "kategori": "Sport",
-        "waktu_publish": "44 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://sport.republika.co.id/berita/sd9cht456/komentar-si-joker-setelah-dinobatkan-sebagai-pangeran-nba-untuk-ketiga-kalinya"
     },
     {
         "judul": "Forum Kota Depok Sehat Dukung Intensifikasi dan Integrasi Pelayanan KBKR",
         "kategori": "Network",
-        "waktu_publish": "45 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ruzka.republika.co.id/komunitas/1674637149/forum-kota-depok-sehat-dukung-intensifikasi-dan-integrasi-pelayanan-kbkr"
     },
     {
         "judul": "Lecehkan 6 Anak, Seorang Pria Babak Belur Dihakimi Massa",
         "kategori": "News",
-        "waktu_publish": "52 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9c4o330/lecehkan-6-anak-seorang-pria-babak-belur-dihakimi-massa"
     },
     {
         "judul": "Obat Pilek Ini Diklaim Berhasil Bikin Wanita Hamil, Ini Kata Ahli Kesehatan",
         "kategori": "Ameera",
-        "waktu_publish": "54 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ameera.republika.co.id/berita/sd9c0y425/obat-pilek-ini-diklaim-berhasil-bikin-wanita-hamil-ini-kata-ahli-kesehatan"
     },
     {
         "judul": "Wakil KSAU Bahas Latihan Bersama dengan AU Jepang",
         "kategori": "News",
-        "waktu_publish": "56 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9by4484/wakil-ksau-bahas-latihan-bersama-dengan-au-jepang"
     },
     {
         "judul": "Zulhas Berterima Kasih kepada Prabowo Karena Jumlah Kursi DPR PAN Naik",
         "kategori": "News",
-        "waktu_publish": "58 menit yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9bvb330/zulhas-berterima-kasih-kepada-prabowo-karena-jumlah-kursi-dpr-pan-naik"
     },
     {
         "judul": "Kenapa Yesus Kristus Diperkenalkan Sebagai Isa Almasih?",
         "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://oohya.republika.co.id/pitan/1744637015/kenapa-yesus-kristus-diperkenalkan-sebagai-isa-almasih"
     },
     {
         "judul": "Kenapa Yesus Kristus Diperkenalkan Sebagai Isa Almasih di Indonesia?",
         "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://oohya.republika.co.id/pitan/1744637015/kenapa-yesus-kristus-diperkenalkan-sebagai-isa-almasih-di-indonesia"
     },
     {
         "judul": "Piringan Hitam Vinyl Melawan Zaman",
         "kategori": "Video",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://tv.republika.co.id/berita/sd9b6x313/piringan-hitam-vinyl-melawan-zaman"
     },
     {
         "judul": "Balikkan Berkas ke PKB, Rektor UMT Siap Maju Pilwakot Tangerang",
         "kategori": "News",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9b65484/balikkan-berkas-ke-pkb-rektor-umt-siap-maju-pilwakot-tangerang"
     },
     {
         "judul": "Marquez Kini Kembali Menjadi Sosok yang Pernah Dibenci Pecinta Valentino Rossi",
         "kategori": "Sport",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://sport.republika.co.id/berita/sd9b1f456/marquez-kini-kembali-menjadi-sosok-yang-pernah-dibenci-pecinta-valentino-rossi"
     },
     {
         "judul": "Halal Bihalal Paguyuban Masyarakat Daerah Istimewa Jogjakarta, Siap Dukung Pembangunan Depok Lebih Maju",
         "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ruzka.republika.co.id/komunitas/1674637018/halal-bihalal-paguyuban-masyarakat-daerah-istimewa-jogjakarta-siap-dukung-pembangunan-depok-lebih-maju"
     },
     {
         "judul": "Resto SKYE Hadirkan Multi Sensory Dining, Simak Keistimewaannya untuk Pencinta Kuliner",
         "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://impresi.republika.co.id/sana-sini/1694637039/resto-skye-hadirkan-multi-sensory-dining-simak-keistimewaannya-untuk-pencinta-kuliner"
     },
     {
         "judul": "Pertamina: Jangan Khawatir, Pertalite Tetap Disalurkan",
         "kategori": "Ekonomi",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ekonomi.republika.co.id/berita/sd9avw502/pertamina-jangan-khawatir-pertalite-tetap-disalurkan"
     },
     {
         "judul": "ICW Usulkan Tiga Syarat Pansel Pimpinan KPK ke Jokowi",
         "kategori": "News",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://news.republika.co.id/berita/sd9ap3484/icw-usulkan-tiga-syarat-pansel-pimpinan-kpk-ke-jokowi"
     },
     {
         "judul": "Terima Kekalahan Indonesia U-23, PSSI Kecam Aksi Rasialis kepada Guinea U-23",
         "kategori": "Sport",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://sport.republika.co.id/berita/sd9aiu456/terima-kekalahan-indonesia-u23-pssi-kecam-aksi-rasialis-kepada-guinea-u23"
     },
     {
         "judul": "Masa Tugas Petugas Haji Dipangkas, Ini Sebabnya",
         "kategori": "Ihram",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-10 15:22:31",
         "url": "https://ihram.republika.co.id/berita/sd9ae2430/masa-tugas-petugas-haji-dipangkas-ini-sebabnya"
-    },
-    {
-        "judul": "Peningkatan Pengamanan di Pelabuhan Ketapang Jelang WWF",
-        "kategori": "Visual",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://visual.republika.co.id/berita/sd9ag6491/peningkatan-pengamanan-di-pelabuhan-ketapang-jelang-wwf"
-    },
-    {
-        "judul": "Mahalini dan Rizky Febian Resmi Menikah, Rizky: Alhamdulillah Sah",
-        "kategori": "Ameera",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://ameera.republika.co.id/berita/sd9a9l425/mahalini-dan-rizky-febian-resmi-menikah-rizky-alhamdulillah-sah"
-    },
-    {
-        "judul": "Kunci Sukses Menjalankan Bisnis E-Grocery",
-        "kategori": "Ekonomi",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://www.republika.id/posts/52665/kunci-sukses-menjalankan-bisnis-e-grocery"
-    },
-    {
-        "judul": "Presiden FIFA: Timnas Indonesia Berada di Arah yang Benar",
-        "kategori": "Sport",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://www.republika.id/posts/52658/presiden-fifa-timnas-indonesia-berada-di-arah-yang-benar"
-    },
-    {
-        "judul": "Jhony Iskandar Penyanyi Dangdut Era 80-an Meninggal Dunia di Usia 64 Tahun",
-        "kategori": "Rejabar",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://rejabar.republika.co.id/berita/sd9a2a512/jhony-iskandar-penyanyi-dangdut-era-80an-meninggal-dunia-di-usia-64-tahun"
-    },
-    {
-        "judul": "Bolehkah Menikah dengan Sepupu dalam Islam?",
-        "kategori": "Ameera",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://ameera.republika.co.id/berita/sd99ge425/bolehkah-menikah-dengan-sepupu-dalam-islam"
-    },
-    {
-        "judul": "DPR: Evaluasi Status Otonomi PTN-BH",
-        "kategori": "News",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://www.republika.id/posts/52664/dpr-evaluasi-status-otonomi-ptn-bh"
-    },
-    {
-        "judul": "Xiaomi SU7 Alami Kerusakan Fatal Setelah 39 Kilometer Perjalanan",
-        "kategori": "Ekonomi",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://ekonomi.republika.co.id/berita/sd98pn370/xiaomi-su7-alami-kerusakan-fatal-setelah-39-kilometer-perjalanan"
-    },
-    {
-        "judul": "Teleskop James Webb Ukur Cahaya Bintang di Sekitar Lubang Hitam Tertua di Alam Semesta",
-        "kategori": "Tekno",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://tekno.republika.co.id/berita/sd98gf370/teleskop-james-webb-ukur-cahaya-bintang-di-sekitar-lubang-hitam-tertua-di-alam-semesta"
-    },
-    {
-        "judul": "Latihan Bersama Singapura, TNI AL Kerahkan Dua Kapal Pemburu Ranjau",
-        "kategori": "News",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://news.republika.co.id/berita/sd9655484/latihan-bersama-singapura-tni-al-kerahkan-dua-kapal-pemburu-ranjau"
-    },
-    {
-        "judul": "Pelaku Mutilasi di Ciamis Jalani Perawatan di RSJ Cisarua Sambil Diobservasi",
-        "kategori": "Rejabar",
-        "waktu_publish": "2 jam yang lalu",
-        "waktu_scraping": "2024-05-10 14:38:07",
-        "url": "https://rejabar.republika.co.id/berita/sd9889512/pelaku-mutilasi-di-ciamis-jalani-perawatan-di-rsj-cisarua-sambil-diobservasi"
     }
 ]
