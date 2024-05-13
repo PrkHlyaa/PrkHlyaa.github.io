@@ -1,352 +1,352 @@
 [
     {
+        "judul": "Saksi: Syahrul Yasin Minta Pejabat Kementan Sediakan 13 Ribu Paket Sembako",
+        "kategori": "News",
+        "waktu_publish": "3 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://news.republika.co.id/berita/sdfc4q330/saksi-syahrul-yasin-minta-pejabat-kementan-sediakan-13-ribu-paket-sembako"
+    },
+    {
+        "judul": "Calon Jamaah Haji Asal Banten Didomonasi Lansia, Tertua 108 Tahun",
+        "kategori": "Ihram",
+        "waktu_publish": "5 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ihram.republika.co.id/berita/sdf6x3484/calon-jamaah-haji-asal-banten-didomonasi-lansia-tertua-108-tahun"
+    },
+    {
+        "judul": "Tips Bagi Jamaah Haji Agar tidak Tersesat",
+        "kategori": "Visual",
+        "waktu_publish": "9 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://visual.republika.co.id/berita/sdfbvo457/tips-bagi-jamaah-haji-agar-tidak-tersesat"
+    },
+    {
+        "judul": "YLKI Ungkap Manfaat Sertifikasi Halal Bagi Suatu Produk",
+        "kategori": "Ameera",
+        "waktu_publish": "12 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ameera.republika.co.id/berita/sdfbqz425/ylki-ungkap-manfaat-sertifikasi-halal-bagi-suatu-produk"
+    },
+    {
+        "judul": "Volume Perdagangan Karbon Capai 572 Ribu Ton",
+        "kategori": "Esgnow",
+        "waktu_publish": "21 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://esgnow.republika.co.id/berita/sdfbbp457/volume-perdagangan-karbon-capai-572-ribu-ton"
+    },
+    {
+        "judul": "Saat Bung Karno Puji 'Wahabi'",
+        "kategori": "News",
+        "waktu_publish": "21 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://news.republika.co.id/berita/sdfbba393/saat-bung-karno-puji-wahabi"
+    },
+    {
+        "judul": "Persib Adaptasi Cuaca Bali",
+        "kategori": "Sport",
+        "waktu_publish": "21 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://sport.republika.co.id/berita/sdfbb6456/persib-adaptasi-cuaca-bali"
+    },
+    {
+        "judul": "121 Hektare Lahan Negara Diselamatkan dari Penggarap Kebun Dolok Ilir PTPN IV",
+        "kategori": "Ekonomi",
+        "waktu_publish": "22 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ekonomi.republika.co.id/berita/sdfb93463/121-hektare-lahan-negara-diselamatkan-dari-penggarap-kebun-dolok-ilir-ptpn-iv"
+    },
+    {
+        "judul": "Pabrik Penangkapan Karbon Langsung Terbesar di Dunia Beroperasi di Islandia",
+        "kategori": "Tekno",
+        "waktu_publish": "23 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://tekno.republika.co.id/berita/sdfamg370/pabrik-penangkapan-karbon-langsung-terbesar-di-dunia-beroperasi-di-islandia"
+    },
+    {
+        "judul": "ICEF 2024 Siap Jadi Ajang Belanja Produk Pemerintah Terbesar, Digelar Akhir Mei",
+        "kategori": "Network",
+        "waktu_publish": "26 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://magenta.republika.co.id/news/1704647546/icef-2024-siap-jadi-ajang-belanja-produk-pemerintah-terbesar-digelar-akhir-mei"
+    },
+    {
+        "judul": "Masyarakat Diimbau Hindari Konsumsi Suplemen Penguat Imun dalam Pengobatan Lupus",
+        "kategori": "Ameera",
+        "waktu_publish": "27 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ameera.republika.co.id/berita/sdfb20425/masyarakat-diimbau-hindari-konsumsi-suplemen-penguat-imun-dalam-pengobatan-lupus"
+    },
+    {
+        "judul": "Kemenparekraf Gelar Pekan Kesehatan 2024 Dorong Medical Tourism",
+        "kategori": "Ekonomi",
+        "waktu_publish": "29 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ekonomi.republika.co.id/berita/sdfayg457/kemenparekraf-gelar-pekan-kesehatan-2024-dorong-medical-tourism"
+    },
+    {
+        "judul": "Jumlah BPR Turun 66, Kinerja Meningkat",
+        "kategori": "Ekonomi",
+        "waktu_publish": "32 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ekonomi.republika.co.id/berita/sdfatb463/jumlah-bpr-turun-66-kinerja-meningkat"
+    },
+    {
+        "judul": "Kemendag Siapkan Dua Kebijakan Baru Terkait Minyak Goreng",
+        "kategori": "Ekonomi",
+        "waktu_publish": "37 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ekonomi.republika.co.id/berita/sdfakw457/kemendag-siapkan-dua-kebijakan-baru-terkait-minyak-goreng"
+    },
+    {
+        "judul": "Dosen FKM UMJ Ungkap Penyebab Banjir Bandang di Sumbar",
+        "kategori": "News",
+        "waktu_publish": "39 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://news.republika.co.id/berita/sdfahb463/dosen-fkm-umj-ungkap-penyebab-banjir-bandang-di-sumbar"
+    },
+    {
+        "judul": "Sidang Lanjutan Syahrul Yasin Limpo",
+        "kategori": "Visual",
+        "waktu_publish": "40 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://visual.republika.co.id/berita/sdfag8491/sidang-lanjutan-syahrul-yasin-limpo"
+    },
+    {
+        "judul": "Menjajal Era Baru Gim MMORPG di Moonlight Blade M",
+        "kategori": "Network",
+        "waktu_publish": "40 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://digitaldonat.republika.co.id/digicafe/1754647549/menjajal-era-baru-gim-mmorpg-di-moonlight-blade-m"
+    },
+    {
+        "judul": "Pemerintah Arab Saudi Imbau Publik tak Tertipu Iklan Haji di Medsos",
+        "kategori": "Ihram",
+        "waktu_publish": "42 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ihram.republika.co.id/berita/sdfad2425/pemerintah-arab-saudi-imbau-publik-tak-tertipu-iklan-haji-di-medsos"
+    },
+    {
+        "judul": "Istirahat Cukup Kurangi Risiko Terserang Lupus",
+        "kategori": "Ameera",
+        "waktu_publish": "42 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ameera.republika.co.id/berita/sdfacv328/istirahat-cukup-kurangi-risiko-terserang-lupus"
+    },
+    {
+        "judul": "Ini Rencana Real Madrid dengan Mbappe Demi Menghindari Masalah Internal di Ruang Ganti",
+        "kategori": "Sport",
+        "waktu_publish": "44 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://sport.republika.co.id/berita/sdfa9t456/ini-rencana-real-madrid-dengan-mbappe-demi-menghindari-masalah-internal-di-ruang-ganti"
+    },
+    {
+        "judul": "Enam Hal yang Diharapkan Karyawan Gen Z dari Bos untuk Kembangkan Karier",
+        "kategori": "Ameera",
+        "waktu_publish": "45 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ameera.republika.co.id/berita/sdf9xd370/enam-hal-yang-diharapkan-karyawan-gen-z-dari-bos-untuk-kembangkan-karier"
+    },
+    {
+        "judul": "Perusahaan Manajemen Karbon Indonesia, Raih Pendanaan 2,7 Juta Dolar AS",
+        "kategori": "Ekonomi",
+        "waktu_publish": "51 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ekonomi.republika.co.id/berita/sdf9xy457/perusahaan-manajemen-karbon-indonesia-raih-pendanaan-27-juta-dolar-as"
+    },
+    {
+        "judul": "Rektor Unri Cabut Laporan di Polda Riau di Depan Mahasiswanya",
+        "kategori": "News",
+        "waktu_publish": "51 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://news.republika.co.id/berita/sdf7gd484/rektor-unri-cabut-laporan-di-polda-riau-di-depan-mahasiswanya"
+    },
+    {
         "judul": "Remisi pada Lupus Belum Tentu Sama dengan Berhenti Berobat",
         "kategori": "Ameera",
-        "waktu_publish": "58 detik yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "58 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ameera.republika.co.id/berita/sdf9lw370/remisi-pada-lupus-belum-tentu-sama-dengan-berhenti-berobat"
     },
     {
         "judul": "Arteta: Kami Ingin Membuka Kotak Mimpi Itu",
         "kategori": "Sport",
-        "waktu_publish": "2 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "59 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://sport.republika.co.id/berita/sdf9kq456/arteta-kami-ingin-membuka-kotak-mimpi-itu"
     },
     {
         "judul": "PDIP Respons Wacana Revisi UU Kementerian Negara Terkait Penambahan Jumlah Menteri Prabowo",
         "kategori": "News",
-        "waktu_publish": "2 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "59 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://news.republika.co.id/berita/sdf9kh409/pdip-respons-wacana-revisi-uu-kementerian-negara-terkait-penambahan-jumlah-menteri-prabowo"
     },
     {
         "judul": "Demensia, Tiga Calhaj Asal Jateng Batal Diberangkatkan ke Tanah Suci",
         "kategori": "Rejogja",
-        "waktu_publish": "2 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "59 menit yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://rejogja.republika.co.id/berita/sdf9k7432/demensia-tiga-calhaj-asal-jateng-batal-diberangkatkan-ke-tanah-suci"
     },
     {
         "judul": "Ketum Perbasi Minta Ortu tak Salah Pilih Klub Anak",
         "kategori": "Ameera",
-        "waktu_publish": "7 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ameera.republika.co.id/berita/sdf9b1328/ketum-perbasi-minta-ortu-tak-salah-pilih-klub-anak"
     },
     {
         "judul": "Kepala BMKG Ingatkan Hujan Lebat Sepekan ke Depan Masih Berpotensi Guyur Sumbar",
         "kategori": "News",
-        "waktu_publish": "11 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://news.republika.co.id/berita/sdf95h409/kepala-bmkg-ingatkan-hujan-lebat-sepekan-ke-depan-masih-berpotensi-guyur-sumbar"
     },
     {
-        "judul": "Suhu di Madinah Capai 40 Derajat Celcius, Jamaah Haji Diimbau Jaga Kesehatan",
+        "judul": "Suhu di Madinah Capai 40 Derajat Celsius, Jamaah Haji Diimbau Jaga Kesehatan",
         "kategori": "Ihram",
-        "waktu_publish": "11 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ihram.republika.co.id/berita/sdf95d313/suhu-di-madinah-capai-40-derajat-celcius-jamaah-haji-diimbau-jaga-kesehatan"
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
+        "url": "https://ihram.republika.co.id/berita/sdf95d313/suhu-di-madinah-capai-40-derajat-celsius-jamaah-haji-diimbau-jaga-kesehatan"
     },
     {
         "judul": "Ditjen AHU Kemenkumham Upayakan\u00a0Perlindungan WNI tanpa Dokumen",
         "kategori": "News",
-        "waktu_publish": "17 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://news.republika.co.id/berita/sdf8vy484/ditjen-ahu-kemenkumham-upayakanperlindungan-wni-tanpa-dokumen"
     },
     {
         "judul": "Sektor Jasa Keuangan Stabil, OJK: Ini yang Perlu Dicermati",
         "kategori": "Ekonomi",
-        "waktu_publish": "18 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ekonomi.republika.co.id/berita/sdf8t0502/sektor-jasa-keuangan-stabil-ojk-ini-yang-perlu-dicermati"
     },
     {
         "judul": "Lagi, Pejabat Militer Israel Mengundurkan Diri",
         "kategori": "Internasional",
-        "waktu_publish": "19 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://www.republika.id/posts/52712/lagi-pejabat-militer-israel-mengundurkan-diri"
     },
     {
         "judul": "Pilkada Jateng 2024 tanpa Paslon Perseorangan",
         "kategori": "Rejogja",
-        "waktu_publish": "23 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://rejogja.republika.co.id/berita/sdf8ki432/pilkada-jateng-2024-tanpa-paslon-perseorangan"
     },
     {
         "judul": "Kebakaran di Kanada Barat Sebabkan Evakuasi dan Masalah Kualitas Udara",
         "kategori": "Esgnow",
-        "waktu_publish": "25 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://esgnow.republika.co.id/berita/sdf8hp328/kebakaran-di-kanada-barat-sebabkan-evakuasi-dan-masalah-kualitas-udara"
     },
     {
         "judul": "Infografis Study Tour Berujung Maut",
         "kategori": "Visual",
-        "waktu_publish": "26 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://visual.republika.co.id/berita/sdf8fj425/infografis-study-tour-berujung-maut"
     },
     {
         "judul": "Kinerja Fundamental BRIS Solid, Analis Rekomendasikan Beli",
         "kategori": "Ekonomi",
-        "waktu_publish": "27 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ekonomi.republika.co.id/berita/sdf8e0463/kinerja-fundamental-bris-solid-analis-rekomendasikan-beli"
     },
     {
         "judul": "Daftar Ibadah untuk Jamaah Haji Selama di Masjid Nabawi",
         "kategori": "Ihram",
-        "waktu_publish": "28 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ihram.republika.co.id/berita/sdf7va457/daftar-ibadah-untuk-jamaah-haji-selama-di-masjid-nabawi"
     },
     {
         "judul": "Fans Tottenham Diyakini akan Rayakan Gol Manchester City ke Gawang Tim Kesayangannya",
         "kategori": "Sport",
-        "waktu_publish": "30 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://sport.republika.co.id/berita/sdf8ac456/fans-tottenham-diyakini-akan-rayakan-gol-manchester-city-ke-gawang-tim-kesayangannya"
     },
     {
         "judul": "Dinkes Depok Bahas Upaya dan Penanganan Penyakit Tuberkulosis",
         "kategori": "Network",
-        "waktu_publish": "32 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ruzka.republika.co.id/edukasi/1674647369/dinkes-depok-bahas-upaya-dan-penanganan-penyakit-tuberkulosis"
     },
     {
         "judul": "BP2MI Beri Peringatan Kepada LPK 'Nakal' Soal Penempatan Kerja PMI",
         "kategori": "Video",
-        "waktu_publish": "32 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "1 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://tv.republika.co.id/berita/sdf85z467/bp2mi-beri-peringatan-kepada-lpk-nakal-soal-penempatan-kerja-pmi"
     },
     {
         "judul": "Megawati Kunjungi Pameran Butet Kertaredjasa",
         "kategori": "Visual",
-        "waktu_publish": "35 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://visual.republika.co.id/berita/sdf815491/megawati-kunjungi-pameran-butet-kertaredjasa"
     },
     {
         "judul": "BNPB Catat 8.000-an Jiwa Terdampak Bencana Alam di Aceh Selatan",
         "kategori": "News",
-        "waktu_publish": "38 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://news.republika.co.id/berita/sdf7qb484/bnpb-catat-8000an-jiwa-terdampak-bencana-alam-di-aceh-selatan"
     },
     {
         "judul": "Pensiunan Guru Sukses Bangun Usaha Jamu Tradisional Bersama PNM Mekaar",
         "kategori": "Ekonomi",
-        "waktu_publish": "39 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ekonomi.republika.co.id/berita/sdf7ux463/pensiunan-guru-sukses-bangun-usaha-jamu-tradisional-bersama-pnm-mekaar"
     },
     {
         "judul": "Pertamina Jatimbalinus Siapkan 11.900 KL Avtur Khusus Penerbangan Haji",
         "kategori": "Ekonomi",
-        "waktu_publish": "45 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://ekonomi.republika.co.id/berita/sdf7jw457/pertamina-jatimbalinus-siapkan-11900-kl-avtur-khusus-penerbangan-haji"
     },
     {
         "judul": "Polresta Bogor Bongkar Praktik Gudang Pengoplosan Gas Melon Bersubsidi",
         "kategori": "Rejabar",
-        "waktu_publish": "46 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://rejabar.republika.co.id/berita/sdf7iw512/polresta-bogor-bongkar-praktik-gudang-pengoplosan-gas-melon-bersubsidi"
     },
     {
         "judul": "Zohri Catatkan Waktu 10,37 Detik pada Kualifikasi Olimpiade di Osaka",
         "kategori": "Sport",
-        "waktu_publish": "47 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://sport.republika.co.id/berita/sdf7hu348/zohri-catatkan-waktu-1037-detik-pada-kualifikasi-olimpiade-di-osaka"
     },
     {
         "judul": "Hasto Singgung Peluang PDIP Usung Sri Mulyani di Pilgub Jakarta 2024",
         "kategori": "News",
-        "waktu_publish": "47 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://news.republika.co.id/berita/sdf7gm409/hasto-singgung-peluang-pdip-usung-sri-mulyani-di-pilgub-jakarta-2024"
     },
     {
         "judul": "Bongkar Peredaran Narkoba, Polres Sukabumi Kota Tangkap Tiga Orang Pengedar Sabu",
         "kategori": "Network",
-        "waktu_publish": "48 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://bandung24jam.id/posts/306436/bongkar-peredaran-narkoba-polres-sukabumi-kota-tangkap-tiga-orang-pengedar-sabu"
     },
     {
         "judul": "Polisi Ungkap Motif Pelaku pada Kasus Mayat di dalam Karung",
         "kategori": "News",
-        "waktu_publish": "48 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
+        "waktu_publish": "2 jam yang lalu",
+        "waktu_scraping": "2024-05-13 19:35:01",
         "url": "https://news.republika.co.id/berita/sdf68a370/polisi-ungkap-motif-pelaku-pada-kasus-mayat-di-dalam-karung"
-    },
-    {
-        "judul": "Jadwal dan Harga Tiket Kereta Api ke Yogya dari Bandung",
-        "kategori": "Network",
-        "waktu_publish": "48 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://kreta.id/posts/306418/jadwal-dan-harga-tiket-kereta-api-ke-yogya-dari-bandung"
-    },
-    {
-        "judul": "Bakamla RI Jemput 18 Nelayan Indonesia yang Ditangkap di Australia",
-        "kategori": "Network",
-        "waktu_publish": "48 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://seputarmiliter.id/posts/306416/bakamla-ri-jemput-18-nelayan-indonesia-yang-ditangkap-di-australia"
-    },
-    {
-        "judul": "Mereka Menyebutnya Galodo",
-        "kategori": "Network",
-        "waktu_publish": "49 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://kingdomsriwijaya.id/posts/306421/mereka-menyebutnya-galodo"
-    },
-    {
-        "judul": "Dubes RI untuk Saudi: Jangan Nekat Berhaji tanpa Visa Resmi!",
-        "kategori": "Ihram",
-        "waktu_publish": "52 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ihram.republika.co.id/berita/sdf78t457/dubes-ri-untuk-saudi-jangan-nekat-berhaji-tanpa-visa-resmi"
-    },
-    {
-        "judul": "Tersangka Pelaku Pembunuhan Danramil Aradide Terancam Hukuman Penjara Seumur Hidup",
-        "kategori": "News",
-        "waktu_publish": "52 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://news.republika.co.id/berita/sdf783409/tersangka-pelaku-pembunuhan-danramil-aradide-terancam-hukuman-penjara-seumur-hidup"
-    },
-    {
-        "judul": "Pakar IPB: Banyak Serangga yang Penting Bagi Manusia",
-        "kategori": "Esgnow",
-        "waktu_publish": "55 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://esgnow.republika.co.id/berita/sdf743328/pakar-ipb-banyak-serangga-yang-penting-bagi-manusia"
-    },
-    {
-        "judul": "Fakta-Fakta Aurora Borealis, Rahasia di Balik Warna-warna Memikat di Langit",
-        "kategori": "Network",
-        "waktu_publish": "55 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://antariksa.republika.co.id/ulasan/1714647278/fakta-fakta-aurora-borealis-rahasia-di-balik-warna-warna-memikat-di-langit"
-    },
-    {
-        "judul": "Bocah SD di Cirebon yang Depresi, Beli HP Hasil Nabung Bekerja Sebagai Petugas Kotak Amal",
-        "kategori": "Rejabar",
-        "waktu_publish": "57 menit yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://rejabar.republika.co.id/berita/sdf706512/bocah-sd-di-cirebon-yang-depresi-beli-hp-hasil-nabung-bekerja-sebagai-petugas-kotak-amal"
-    },
-    {
-        "judul": "Sebanyak 4.500 Jamaah Haji Tiba di Madinah,\u00a09.070 Jamaah Menyusul",
-        "kategori": "Ihram",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ihram.republika.co.id/berita/sdf6tv457/sebanyak-4500-jamaah-haji-tiba-di-madinah9070-jamaah-menyusul"
-    },
-    {
-        "judul": "Separuh Warga AS: Bantuan untuk Ukraina Lebay",
-        "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://internasional.republika.co.id/berita/sdf6mj488/separuh-warga-as-bantuan-untuk-ukraina-lebay"
-    },
-    {
-        "judul": "PBVSI Panggil 14 Pevoli Putri untuk Hadapi AVC Challenge Cup di Filipina",
-        "kategori": "Sport",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://sport.republika.co.id/berita/sdf6m3348/pbvsi-panggil-14-pevoli-putri-untuk-hadapi-avc-challenge-cup-di-filipina"
-    },
-    {
-        "judul": "Layanan Terpadu Satu Atap untuk Jamaah Calon Haji Embarkasi Solo",
-        "kategori": "Visual",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://visual.republika.co.id/berita/sdf4dc375/layanan-terpadu-satu-atap-untuk-jamaah-calon-haji-embarkasi-solo"
-    },
-    {
-        "judul": "Bhikku Thudong Dilepas dari TMII Besok Sore",
-        "kategori": "Ameera",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ameera.republika.co.id/berita/sdf6do328/bhikku-thudong-dilepas-dari-tmii-besok-sore"
-    },
-    {
-        "judul": "Inggris Tegaskan tak Akan Tunda Pengiriman Senjata ke Israel",
-        "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://internasional.republika.co.id/berita/sdf6d1488/inggris-tegaskan-tak-akan-tunda-pengiriman-senjata-ke-israel"
-    },
-    {
-        "judul": "Ammar Zoni Ajukan Eksepsi Atas Kewenangan PN Jakbar",
-        "kategori": "Ameera",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ameera.republika.co.id/berita/sdf5qg370/ammar-zoni-ajukan-eksepsi-atas-kewenangan-pn-jakbar"
-    },
-    {
-        "judul": "PDIP Tugaskan Ganjar pada Pilkada 2024 dan Libatkan Ahok di Sekolah Partai",
-        "kategori": "News",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://news.republika.co.id/berita/sdf678484/pdip-tugaskan-ganjar-pada-pilkada-2024-dan-libatkan-ahok-di-sekolah-partai"
-    },
-    {
-        "judul": "Hadir di Bandung, Produsen Peralatan Rumah Tangga Ini Bidik Pangsa Pasar Menengah",
-        "kategori": "Rejabar",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://rejabar.republika.co.id/berita/sdf62g512/hadir-di-bandung-produsen-peralatan-rumah-tangga-ini-bidik-pangsa-pasar-menengah"
-    },
-    {
-        "judul": "PBB: Situasi Rafah Kian di Ujung Tanduk",
-        "kategori": "Internasional",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://internasional.republika.co.id/berita/sdf62d488/pbb-situasi-rafah-kian-di-ujung-tanduk"
-    },
-    {
-        "judul": "Rubicon Mario Dandy Dilelang Ulang dengan Harga Lebih Murah",
-        "kategori": "Ekonomi",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ekonomi.republika.co.id/berita/sdf52m457/rubicon-mario-dandy-dilelang-ulang-dengan-harga-lebih-murah"
-    },
-    {
-        "judul": "Wapres Maruf Amin Hadiri Silaturahmi Asbisindo",
-        "kategori": "Visual",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://visual.republika.co.id/berita/sdf5lr375/wapres-maruf-amin-hadiri-silaturahmi-asbisindo"
-    },
-    {
-        "judul": "Kemenko Ekonomi Ajak 150 Pengusaha Turki Tingkatkan Investasi ke RI",
-        "kategori": "Ekonomi",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://ekonomi.republika.co.id/berita/sdf5p2502/kemenko-ekonomi-ajak-150-pengusaha-turki-tingkatkan-investasi-ke-ri"
-    },
-    {
-        "judul": "Prajurit Pakubuwono I Sudah Ikat Tombak, Kenapa akan Serang Lagi Sunan Amral?",
-        "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://oohya.republika.co.id/sekapur-sirih/1744647112/prajurit-pakubuwono-i-sudah-ikat-tombak-kenapa-akan-serang-lagi-sunan-amral"
-    },
-    {
-        "judul": "Prajurit Pakubuwono I Sudah Ikat Tombak, Kenapa akan Serang Lagi Sunan Amral?",
-        "kategori": "Network",
-        "waktu_publish": "1 jam yang lalu",
-        "waktu_scraping": "2024-05-13 18:38:07",
-        "url": "https://oohya.republika.co.id/pitan/1744647112/prajurit-pakubuwono-i-sudah-ikat-tombak-kenapa-akan-serang-lagi-sunan-amral"
     }
 ]
