@@ -3,18 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Berita Terkini</title>
+    <title>Berita Terkini - Zahra Hilyatul Jannah</title>
     <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
     <header>
         <nav>
             <div class="logo">Zahra Hilyah</div>
-            <ul>
-                <li><a href="index.html">Beranda</a></li>
-                <li><a href="about.html">Tentang</a></li>
-                <li><a href="gallery.html">Galeri</a></li>
-                <li><a href="berita.html" class="active">Berita</a></li>
+            <ul class="nav-links">
+                <li><a href="index.html"><i class="fas fa-home"></i> Beranda</a></li>
+                <li><a href="index.html#About"><i class="fas fa-user"></i> Tentang</a></li>
+                <li><a href="index.html#Galeri"><i class="fas fa-images"></i> Galeri</a></li>
+                <li><a href="berita.html" class="active"><i class="fas fa-newspaper"></i> Berita</a></li>
             </ul>
             <div class="menu-toggle">
                 <input type="checkbox">
@@ -24,41 +26,90 @@
             </div>
         </nav>
     </header>
+
     <div class="container">
-        <h1>DATA SCRAPING I</h1>
-        <table id="jsonTable" border="1">
-            <thead>
-                <tr>
-                    <th>Judul</th>
-                    <th>Kategori</th>
-                    <th>Waktu Publish</th>
-                    <th>Waktu Scraping</th>
-                </tr>
-            </thead>
-            <tbody>
-            </tbody>
-        </table>
+        <section class="news-header">
+            <h1 class="section-title">BERITA TERKINI</h1>
+            <div class="divider"></div>
+            <p class="news-description">Kumpulan berita terbaru yang telah di-scraping dari berbagai sumber terpercaya</p>
+        </section>
+
+        <section class="news-controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Cari berita...">
+                <i class="fas fa-search"></i>
+            </div>
+            <div class="filter-controls">
+                <select id="categoryFilter">
+                    <option value="">Semua Kategori</option>
+                    <!-- Kategori akan diisi oleh JavaScript -->
+                </select>
+                <button id="sortDateBtn" class="sort-btn">
+                    <i class="fas fa-sort"></i> Urutkan Tanggal
+                </button>
+            </div>
+        </section>
+
+        <section class="news-container">
+            <div class="loading-spinner" id="loadingSpinner">
+                <i class="fas fa-spinner fa-spin"></i>
+                <p>Memuat berita...</p>
+            </div>
+            <div class="news-grid" id="newsGrid">
+                <!-- Kartu berita akan diisi oleh JavaScript -->
+            </div>
+            <div class="no-results" id="noResults" style="display: none;">
+                <i class="fas fa-newspaper"></i>
+                <h3>Tidak ada berita yang ditemukan</h3>
+                <p>Coba gunakan kata kunci lain atau filter yang berbeda</p>
+            </div>
+        </section>
+
+        <section class="table-section" style="display: none;">
+            <h2 class="section-title">TAMPILAN TABEL</h2>
+            <div class="divider"></div>
+            <div class="table-container">
+                <table id="jsonTable">
+                    <thead>
+                        <tr>
+                            <th>Judul <i class="fas fa-sort"></i></th>
+                            <th>Kategori <i class="fas fa-sort"></i></th>
+                            <th>Waktu Publish <i class="fas fa-sort"></i></th>
+                            <th>Waktu Scraping <i class="fas fa-sort"></i></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Data akan diisi oleh JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+            <div class="view-toggle">
+                <button id="toggleViewBtn" class="btn-secondary">
+                    <i class="fas fa-table"></i> Tampilkan Tabel
+                </button>
+            </div>
+        </section>
     </div>
+
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="social-links">
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-linkedin"></i></a>
+                <a href="#"><i class="fab fa-github"></i></a>
+            </div>
+            <p class="copy">
+                &copy; Hak Cipta 2024 oleh <a href="#">PrkHlyaa</a>
+            </p>
+        </div>
+    </footer>
+
+    <button id="backToTop" class="back-to-top">
+        <i class="fas fa-arrow-up"></i>
+    </button>
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-        $(document).ready(function(){
-            $.getJSON("headline.json", function(data){
-                $.each(data, function(index, item){
-                    var row = "<tr>";
-                    row += "<td>" + '<a href="' + item.url + '">' + item.judul + "</td>";
-                    row += "<td>" + item.kategori + "</td>";
-                    row += "<td>" + item.waktu_publish + "</td>";
-                    row += "<td>" + item.waktu_scraping + "</td>";
-                    row += "</tr>";
-                    $("#jsonTable tbody").append(row);
-                });
-            });
-        });
-    </script>
-    <div class="footer">
-        <p class="copy">
-            &copy Hak Cipta 2024 oleh <a href="#">PrkHlyaa</a>
-        </p>
-    </div>
+    <script src="js/news.js"></script>
 </body>
 </html>
